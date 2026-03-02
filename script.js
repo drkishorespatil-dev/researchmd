@@ -15,14 +15,14 @@ navLinks.querySelectorAll('a').forEach(link => {
   link.addEventListener('click', () => navLinks.classList.remove('open'));
 });
 
-// ── CONTACT FORM: show success message ──
+// ── CONTACT FORM: submit to Formspree ──
 const form        = document.getElementById('contactForm');
 const formSuccess = document.getElementById('formSuccess');
+const submitBtn   = form.querySelector('.btn-submit');
 
-form.addEventListener('submit', (e) => {
-  e.preventDefault(); // stop normal form submission
+form.addEventListener('submit', async (e) => {
+  e.preventDefault();
 
-  // Simple validation — all required fields filled
   const name    = document.getElementById('name').value.trim();
   const email   = document.getElementById('email').value.trim();
   const phone   = document.getElementById('phone').value.trim();
@@ -35,12 +35,30 @@ form.addEventListener('submit', (e) => {
     return;
   }
 
-  // Show success message
-  formSuccess.classList.add('show');
-  form.reset();
+  // Show loading state
+  submitBtn.disabled = true;
+  submitBtn.querySelector('span').textContent = 'Sending...';
 
-  // Hide success after 6 seconds
-  setTimeout(() => formSuccess.classList.remove('show'), 6000);
+  try {
+    const response = await fetch(form.action, {
+      method: 'POST',
+      headers: { 'Accept': 'application/json' },
+      body: new FormData(form)
+    });
+
+    if (response.ok) {
+      formSuccess.classList.add('show');
+      form.reset();
+      setTimeout(() => formSuccess.classList.remove('show'), 6000);
+    } else {
+      alert('Something went wrong. Please try again or contact us on WhatsApp.');
+    }
+  } catch {
+    alert('Something went wrong. Please try again or contact us on WhatsApp.');
+  }
+
+  submitBtn.disabled = false;
+  submitBtn.querySelector('span').textContent = 'Send My Request';
 });
 
 // ── SCROLL ANIMATIONS: fade-in on scroll ──
