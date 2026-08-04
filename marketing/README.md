@@ -43,5 +43,5 @@ node -e "1" # then load poster.html and read:
 # [...document.querySelector('.poster').children].reduce((a,e)=>a+e.getBoundingClientRect().height,0)
 ```
 
-Current total is ~1298px, leaving ~52px of slack that `justify-content: space-between`
+Current total is ~1310px, leaving ~52px of slack that `justify-content: space-between`
 distributes between the four bands.

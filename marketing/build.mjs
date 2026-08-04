@@ -22,7 +22,7 @@ fs.writeFileSync(path.join(dir, 'poster.html'), `<!DOCTYPE html>
 <style>
 ${fonts}
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html, body { width: 1080px; height: 1350px; background: #0A0118; }
+html, body { width: 1080px; height: 1350px; background: #F7F5FC; }
 ${css}
 </style>
 </head>
@@ -36,7 +36,7 @@ fs.writeFileSync(path.join(dir, 'poster-artifact.html'), `<title>ResearchMD — 
 <style>
 ${fonts}
 :root {
-  --page-bg:   #F2EFF7;
+  --page-bg:   #E7E2F3;
   --page-fg:   #241540;
   --page-dim:  #6B5C87;
   --page-line: rgba(124, 58, 237, 0.22);
@@ -45,7 +45,7 @@ ${fonts}
   :root { --page-bg: #0D0619; --page-fg: #EDE6FA; --page-dim: #9B8CBC; --page-line: rgba(167,139,250,0.22); }
 }
 :root[data-theme="dark"] { --page-bg: #0D0619; --page-fg: #EDE6FA; --page-dim: #9B8CBC; --page-line: rgba(167,139,250,0.22); }
-:root[data-theme="light"] { --page-bg: #F2EFF7; --page-fg: #241540; --page-dim: #6B5C87; --page-line: rgba(124,58,237,0.22); }
+:root[data-theme="light"] { --page-bg: #E7E2F3; --page-fg: #241540; --page-dim: #6B5C87; --page-line: rgba(124,58,237,0.22); }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 body {
@@ -68,7 +68,7 @@ body {
   height: calc(1350px * var(--s));
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 24px 70px -28px rgba(23, 10, 46, 0.65);
+  box-shadow: 0 24px 70px -30px rgba(23, 10, 46, 0.55);
 }
 .frame .poster { transform: scale(var(--s)); transform-origin: top left; }
 
