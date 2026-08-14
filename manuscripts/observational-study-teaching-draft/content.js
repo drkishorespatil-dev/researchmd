@@ -31,7 +31,7 @@ module.exports = [
 
 {t:'meta', text:'Reporting guideline: STROBE (Strengthening the Reporting of Observational Studies in Epidemiology), cohort checklist.'},
 
-{t:'meta', text:'Tables: 6 | Figures: 5 | References: 24'},
+{t:'meta', text:'Tables: 6 | Figures: 6 | References: 24'},
 
 // ---------------- ABSTRACT ----------------
 {t:'h1', text:'Abstract'},
@@ -157,7 +157,7 @@ module.exports = [
 {t:'p', text:'Bradycardia occurred in 1 patient (1.7%) receiving fractionated injection and 8 (11.4%) receiving bolus injection, an adjusted risk ratio of 0.19 (0.02 to 1.49; p = 0.113); the confidence interval is wide and includes the null, and no conclusion should be drawn from it. Nausea was recorded in 4 patients (6.9%) against 15 (21.4%), and vomiting in 1 (1.7%) against 7 (10.0%). No episode of chills, itching or urinary retention occurred in either cohort (Table 4).'},
 
 {t:'h2', text:'3.8. Sensitivity analyses'},
-{t:'p', text:'The primary estimate proved stable across all pre-specified sensitivity analyses (Table 5). Inverse probability of treatment weighting gave a risk ratio of 0.31 (0.14 to 0.69) and propensity score matching, which yielded 48 matched pairs, gave 0.33 (0.13 to 0.84). Multiple imputation of the two records with missing haemodynamic data produced 0.29 (0.13 to 0.66).'},
+{t:'p', text:'The primary estimate proved stable across all pre-specified sensitivity analyses (Table 5, Figure 6). Inverse probability of treatment weighting gave a risk ratio of 0.31 (0.14 to 0.69) and propensity score matching, which yielded 48 matched pairs, gave 0.33 (0.13 to 0.84). Multiple imputation of the two records with missing haemodynamic data produced 0.29 (0.13 to 0.66). Across every analysis the estimate moved only between 0.27 and 0.33.'},
 
 {t:'p', text:'The E-value for the adjusted risk ratio was 6.4, and 2.3 for the confidence limit nearest the null. An unmeasured confounder would therefore need to be associated with both injection technique and hypotension by a risk ratio of at least 2.3, above and beyond every measured covariate, before the observed association could be explained entirely by confounding. Analysis of the negative control outcome found no association between injection technique and duration of surgery (adjusted mean difference 4.8 minutes, −4.2 to 13.8; p = 0.294), which offers some reassurance that gross residual confounding by case complexity is unlikely.'},
 

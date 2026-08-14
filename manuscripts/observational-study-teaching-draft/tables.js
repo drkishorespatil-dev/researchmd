@@ -85,12 +85,25 @@ module.exports = [
 {t:'small', text:'Patients ceased to contribute data at the end of their operation. Time points beyond 90 minutes rest on fewer than half the cohort and are presented for completeness rather than for inference.'},
 
 {t:'pagebreak'},
-{t:'h1', text:'Figure legends'},
-{t:'p', text:'Figure 1. Directed acyclic graph of the assumed causal structure linking injection pattern to intraoperative hypotension. Boxes denote measured variables and shaded boxes the minimal sufficient adjustment set. Peak sensory level is shown as a mediator and is deliberately excluded from adjustment; conditioning on it would remove part of the association under study [23]. Cerebrospinal fluid volume and true instantaneous injection rate are shown as unmeasured variables.'},
-{t:'p', text:'Figure 2. STROBE flow diagram showing the number of patients assessed for eligibility, excluded before enrolment with reasons, enrolled, excluded after enrolment with reasons, and analysed in each cohort.'},
-{t:'p', text:'Figure 3. Covariate balance before and after inverse probability of treatment weighting, plotted as absolute standardised mean differences. The vertical reference line marks 0.10. Operator experience is the only covariate exceeding that threshold before weighting.'},
-{t:'p', text:'Figure 4. Mean arterial pressure over time by injection technique. Values are model-estimated means with 95% confidence intervals from the linear mixed-effects model. Time zero denotes the baseline recording made immediately before intrathecal injection. The number of patients contributing at each time point is given in Table 6.'},
-{t:'p', text:'Figure 5. Heart rate over time by injection technique. Values are model-estimated means with 95% confidence intervals from the linear mixed-effects model. Time zero denotes the baseline recording made immediately before intrathecal injection. The number of patients contributing at each time point is given in Table 6.'},
+{t:'h1', text:'Figures'},
+
+{t:'figure', file:'Figure1_DAG.png', w:595, h:395},
+{t:'fcap', text:'Figure 1. Directed acyclic graph of the assumed causal structure linking injection pattern to intraoperative hypotension. Boxes denote measured variables and the shaded blue box the minimal sufficient adjustment set. Peak sensory level is shown as a mediator and is deliberately excluded from adjustment; conditioning on it would remove part of the association under study [23]. Cerebrospinal fluid volume and true instantaneous injection rate are shown as unmeasured, and are the reason an E-value is reported.'},
+
+{t:'figure', file:'Figure2_STROBE_flow.png', w:528, h:509},
+{t:'fcap', text:'Figure 2. STROBE flow diagram showing the number of patients assessed for eligibility, excluded before enrolment with reasons, enrolled, excluded after enrolment with reasons, and analysed in each cohort. Cohort sizes were determined by the distribution of practice among the eight contributing anaesthesiologists rather than by any study procedure.'},
+
+{t:'figure', file:'Figure3_covariate_balance.png', w:595, h:331},
+{t:'fcap', text:'Figure 3. Covariate balance before and after inverse probability of treatment weighting, plotted as absolute standardised mean differences. The vertical reference line marks the conventional balance threshold of 0.10. Operator experience is the only covariate exceeding that threshold in the unweighted cohort, and is brought into balance by weighting.'},
+
+{t:'figure', file:'Figure4_MAP.png', w:595, h:384},
+{t:'fcap', text:'Figure 4. Mean arterial pressure over time by injection technique. Values are model-estimated means with 95% confidence intervals from the linear mixed-effects model. Time zero denotes the baseline recording made immediately before intrathecal injection. Shading beyond 90 minutes marks the period in which fewer than half the cohort remained under observation; the number contributing at each time point is given in Table 6.'},
+
+{t:'figure', file:'Figure5_HR.png', w:595, h:378},
+{t:'fcap', text:'Figure 5. Heart rate over time by injection technique. Values are model-estimated means with 95% confidence intervals from the linear mixed-effects model. Time zero denotes the baseline recording made immediately before intrathecal injection. Shading beyond 90 minutes marks the period in which fewer than half the cohort remained under observation.'},
+
+{t:'figure', file:'Figure6_forest.png', w:595, h:308},
+{t:'fcap', text:'Figure 6. Adjusted risk ratios for the primary outcome across every pre-specified analysis, and for the secondary binary outcomes. The diamond marks the primary adjusted estimate. Confidence intervals crossing the vertical line at 1.0 are compatible with no association. The value of the figure lies in the first block: an estimate that moves only between 0.27 and 0.33 across crude, adjusted, weighted, matched and imputed analyses is not an artefact of any single modelling choice.'},
 
 {t:'pagebreak'},
 {t:'h1', text:'Appendix A. Design notes — what changed from the randomised version, and why'},

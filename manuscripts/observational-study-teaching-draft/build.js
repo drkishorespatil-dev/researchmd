@@ -1,8 +1,12 @@
 const fs = require('fs');
+const path = require('path');
 const {
   Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType,
-  Table, TableRow, TableCell, WidthType, ShadingType, BorderStyle, PageBreak
+  Table, TableRow, TableCell, WidthType, ShadingType, BorderStyle, PageBreak,
+  ImageRun
 } = require('docx');
+
+const FIGDIR = path.join(__dirname, 'figures');
 
 const blocks = [].concat(require('./content.js'), require('./tables.js'));
 
@@ -92,6 +96,23 @@ for (const b of blocks) {
       break;
     case 'table':
       children.push(buildTable(b));
+      break;
+    case 'figure': {
+      const p = path.join(FIGDIR, b.file);
+      if (!fs.existsSync(p)) throw new Error('missing figure: ' + p);
+      children.push(new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing: { before: 280, after: 90 },
+        children: [new ImageRun({
+          type: 'png', data: fs.readFileSync(p),
+          transformation: { width: b.w, height: b.h }
+        })]
+      }));
+      break;
+    }
+    case 'fcap':
+      children.push(new Paragraph({ spacing: { after: 260, line: 260 },
+        alignment: AlignmentType.JUSTIFIED, children: runs(b.text, { size: 19 }) }));
       break;
     case 'red':
       children.push(new Paragraph({ spacing: { before: 300, after: 160 },
