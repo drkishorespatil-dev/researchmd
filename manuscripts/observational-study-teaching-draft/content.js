@@ -27,7 +27,7 @@ module.exports = [
 {t:'p', text:'The authors declare no conflicts of interest.'},
 
 {t:'meta', text:'Study registration'},
-{t:'p', text:'[FILL: CTRI registration number and date. Prospective registration of observational studies is not mandated by ICMJE policy, but a growing number of journals request it and several Indian ethics committees now require it. Register before enrolment if at all possible, and state the number here.]'},
+{t:'p', text:'[FILL: CTRI registration number and date, or an explicit statement that the study was not registered. Registration is not mandatory for this design. The requirement under the New Drugs and Clinical Trials Rules 2019, and under ICMJE policy, attaches to studies that prospectively assign participants to an intervention; here the technique was chosen by the treating anaesthesiologist as a matter of routine care and nothing was assigned. The Clinical Trials Registry of India nevertheless accepts observational studies, and roughly a quarter of its entries are of that kind. Voluntary registration is worth considering, because a pre-declared primary outcome is the most effective answer to a reviewer who suspects the endpoint was chosen after the data were seen. Note that CTRI has registered prospectively only since 1 April 2018, so this decision must be taken before the first participant is enrolled.]'},
 
 {t:'meta', text:'Reporting guideline: STROBE (Strengthening the Reporting of Observational Studies in Epidemiology), cohort checklist.'},
 
