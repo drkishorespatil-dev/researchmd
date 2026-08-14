@@ -8,7 +8,10 @@ const {
 
 const FIGDIR = path.join(__dirname, 'figures');
 
-const blocks = [].concat(require('./content.js'), require('./tables.js'));
+// usage: node build.js <out.docx> [contentModule] [tablesModule]
+const contentMod = process.argv[3] || './content.js';
+const tablesMod  = process.argv[4] || './tables.js';
+const blocks = [].concat(require(contentMod), require(tablesMod));
 
 const FONT = 'Times New Roman';
 const RED = 'C00000';
