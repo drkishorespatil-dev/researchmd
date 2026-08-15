@@ -1,0 +1,635 @@
+<title>Cholelithiasis Manuscript Review</title>
+<style>
+  :root {
+    --paper:        #faf9f6;
+    --surface:      #ffffff;
+    --ink:          #1b1e24;
+    --ink-soft:     #55535a;
+    --ink-faint:    #86828a;
+    --rule:         #ddd9d2;
+    --rule-strong:  #b9b3aa;
+    --accent:       #8e2f3c;
+    --accent-soft:  #f2e7e6;
+    --fixed:        #2f6a4f;
+    --fixed-soft:   #e4eee7;
+    --query:        #a8681b;
+    --query-soft:   #f6ecdc;
+    --advis:        #45607e;
+    --advis-soft:   #e6ebf1;
+
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
+    --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper:       #15171a;
+      --surface:     #1d2025;
+      --ink:         #e9e5df;
+      --ink-soft:    #b0aaa4;
+      --ink-faint:   #857f7a;
+      --rule:        #2e3238;
+      --rule-strong: #4a4f57;
+      --accent:      #d9808b;
+      --accent-soft: #342225;
+      --fixed:       #7fc0a0;
+      --fixed-soft:  #1c2a23;
+      --query:       #d9a45f;
+      --query-soft:  #2d2519;
+      --advis:       #8fadcd;
+      --advis-soft:  #1e252d;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper:       #15171a;
+    --surface:     #1d2025;
+    --ink:         #e9e5df;
+    --ink-soft:    #b0aaa4;
+    --ink-faint:   #857f7a;
+    --rule:        #2e3238;
+    --rule-strong: #4a4f57;
+    --accent:      #d9808b;
+    --accent-soft: #342225;
+    --fixed:       #7fc0a0;
+    --fixed-soft:  #1c2a23;
+    --query:       #d9a45f;
+    --query-soft:  #2d2519;
+    --advis:       #8fadcd;
+    --advis-soft:  #1e252d;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.62;
+    margin: 0;
+    padding: 0 1.5rem 6rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 43rem; margin: 0 auto; }
+
+  /* ---------- masthead ---------- */
+  header { padding: 4rem 0 0; }
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: .68rem;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 1.1rem;
+  }
+  h1 {
+    font-size: clamp(2.1rem, 6vw, 2.9rem);
+    line-height: 1.1;
+    font-weight: 600;
+    letter-spacing: -.015em;
+    text-wrap: balance;
+    margin: 0 0 1rem;
+  }
+  .standfirst {
+    font-size: 1.12rem;
+    color: var(--ink-soft);
+    margin: 0 0 2rem;
+    text-wrap: pretty;
+  }
+  .meta {
+    display: flex; flex-wrap: wrap; gap: .4rem 2rem;
+    font-family: var(--mono); font-size: .74rem;
+    color: var(--ink-faint);
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: .85rem 0;
+  }
+  .meta b { color: var(--ink-soft); font-weight: 400; }
+
+  /* ---------- verdict ---------- */
+  .verdict {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    padding: 1.5rem 1.6rem;
+    margin: 2.5rem 0 0;
+  }
+  .verdict p { margin: 0 0 .9rem; }
+  .verdict p:last-child { margin-bottom: 0; }
+  .verdict strong { color: var(--accent); font-weight: 600; }
+
+  .tally {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+    gap: 0;
+    margin: 2rem 0 0;
+    border-top: 1px solid var(--rule-strong);
+    border-bottom: 1px solid var(--rule-strong);
+  }
+  .tally div { padding: 1rem .2rem 1.1rem; }
+  .tally div + div { border-left: 1px solid var(--rule); }
+  .tally .n {
+    font-family: var(--mono); font-variant-numeric: tabular-nums;
+    font-size: 1.75rem; line-height: 1; display: block; margin-bottom: .45rem;
+  }
+  .tally .l {
+    font-family: var(--mono); font-size: .66rem; letter-spacing: .09em;
+    text-transform: uppercase; color: var(--ink-faint); display: block;
+  }
+
+  /* ---------- sections ---------- */
+  section { margin-top: 3.6rem; }
+  h2 {
+    font-size: 1.42rem; font-weight: 600; letter-spacing: -.01em;
+    margin: 0 0 .35rem; text-wrap: balance;
+  }
+  .sec-note { color: var(--ink-faint); font-size: .93rem; margin: 0 0 1.6rem; }
+  h2 + .sec-note { margin-top: -.1rem; }
+  h3 {
+    font-family: var(--mono); font-size: .7rem; letter-spacing: .14em;
+    text-transform: uppercase; font-weight: 400;
+    color: var(--ink-faint);
+    margin: 2.6rem 0 0; padding-bottom: .5rem;
+    border-bottom: 1px solid var(--rule-strong);
+  }
+  p { margin: 0 0 1rem; text-wrap: pretty; }
+
+  /* ---------- findings ledger ---------- */
+  .finding {
+    display: grid;
+    grid-template-columns: 2.6rem 1fr;
+    gap: 0 .9rem;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .finding .num {
+    font-family: var(--mono); font-size: .82rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--accent); padding-top: .35rem;
+  }
+  .finding h4 {
+    font-size: 1.06rem; font-weight: 600; margin: 0 0 .5rem;
+    line-height: 1.35; text-wrap: pretty;
+  }
+  .finding p { margin: 0 0 .7rem; font-size: .97rem; }
+  .finding p:last-child { margin-bottom: 0; }
+  .finding .body { min-width: 0; }
+
+  .tag {
+    display: inline-block; font-family: var(--mono);
+    font-size: .61rem; letter-spacing: .1em; text-transform: uppercase;
+    padding: .22rem .5rem; margin: 0 0 .55rem;
+    border: 1px solid currentColor;
+  }
+  .t-crit  { color: var(--accent); background: var(--accent-soft); }
+  .t-major { color: var(--query);  background: var(--query-soft); }
+  .t-mod   { color: var(--advis);  background: var(--advis-soft); }
+  .t-min   { color: var(--ink-faint); background: transparent; }
+
+  .outcome {
+    font-family: var(--mono); font-size: .7rem; letter-spacing: .05em;
+    padding: .5rem .7rem; margin-top: .8rem;
+    border-left: 2px solid var(--fixed); background: var(--fixed-soft);
+    color: var(--ink-soft);
+  }
+  .outcome.q { border-left-color: var(--query); background: var(--query-soft); }
+
+  /* ---------- tables ---------- */
+  .scroll { overflow-x: auto; margin: 1.2rem 0 1.4rem; }
+  table {
+    border-collapse: collapse; width: 100%; min-width: 30rem;
+    font-size: .87rem; font-variant-numeric: tabular-nums;
+  }
+  th, td {
+    text-align: left; padding: .55rem .8rem .55rem 0;
+    border-bottom: 1px solid var(--rule); vertical-align: top;
+  }
+  th {
+    font-family: var(--mono); font-size: .65rem; font-weight: 400;
+    letter-spacing: .1em; text-transform: uppercase; color: var(--ink-faint);
+    border-bottom: 1px solid var(--rule-strong);
+  }
+  td.num, th.num { text-align: right; padding-right: 1.4rem; font-family: var(--mono); }
+  tr:last-child td { border-bottom: none; }
+  .was { color: var(--ink-faint); text-decoration: line-through; }
+  .now { color: var(--fixed); font-family: var(--mono); }
+
+  .check td:first-child { width: 1.6rem; padding-right: .5rem; font-family: var(--mono); }
+  .ok  { color: var(--fixed); }
+  .flag { color: var(--query); }
+
+  ul { margin: 0 0 1rem; padding-left: 1.15rem; }
+  li { margin-bottom: .55rem; }
+  li::marker { color: var(--accent); }
+
+  code {
+    font-family: var(--mono); font-size: .84em;
+    background: var(--accent-soft); color: var(--ink);
+    padding: .1em .35em;
+  }
+  em { font-style: italic; }
+
+  footer {
+    margin-top: 4rem; padding-top: 1.4rem;
+    border-top: 1px solid var(--rule-strong);
+    font-family: var(--mono); font-size: .72rem; color: var(--ink-faint);
+    line-height: 1.7;
+  }
+
+  @media (max-width: 34rem) {
+    body { font-size: 16px; padding: 0 1.1rem 4rem; }
+    .finding { grid-template-columns: 1fr; gap: 0; }
+    .finding .num { padding: 0 0 .4rem; }
+  }
+</style>
+
+<div class="wrap">
+
+<header>
+  <p class="eyebrow">Independent pre-submission review</p>
+  <h1>Routine UGI Endoscopy in Cholelithiasis</h1>
+  <p class="standfirst">Twelve defects found in the manuscript, three of them serious enough to draw a
+  desk rejection or a published correction. All twelve are fixed in the blinded copy. Five items
+  still need you.</p>
+  <div class="meta">
+    <span><b>Target</b> Cureus, Original Article</span>
+    <span><b>Reviewed</b> 15 Aug 2026</span>
+    <span><b>Cohort</b> n = 85</span>
+    <span><b>Blinding</b> Institution + authors</span>
+  </div>
+</header>
+
+<div class="verdict">
+  <p>The argument is sound and the writing is well above the average Cureus submission. The problem
+  is the numbers. <strong>Three tables disagreed with each other</strong> about how many patients
+  had persistent symptoms, one table contained a logically impossible category, and the sample-size
+  calculation returns 284, not 85.</p>
+  <p>None of this is fatal &mdash; the findings survive intact and one of them gets
+  <em>stronger</em> once the data reconcile. But a reviewer with a calculator finds all three
+  in about ten minutes, and the sample-size error is the kind that gets a paper desk-rejected
+  before peer review.</p>
+</div>
+
+<div class="tally">
+  <div><span class="n">12</span><span class="l">Defects found</span></div>
+  <div><span class="n">12</span><span class="l">Corrected</span></div>
+  <div><span class="n">5</span><span class="l">Need your input</span></div>
+  <div><span class="n">8</span><span class="l">Refs verified</span></div>
+</div>
+
+<!-- ============ RECONCILIATION ============ -->
+<section>
+  <h2>The data problem, and why it resolves cleanly</h2>
+  <p class="sec-note">This is the part worth reading carefully.</p>
+
+  <p>Table 7 counted <strong>20</strong> patients with persistent symptoms at one month.
+  Tables 5 and 6 both counted <strong>21</strong>. Separately, Table 6 classified four patients
+  whose preoperative endoscopy was <em>normal</em> as having &ldquo;improved&rdquo; on repeat
+  endoscopy &mdash; you cannot improve on normal.</p>
+
+  <p>Those two faults turn out to be one fault. Table 6&rsquo;s normal-endoscopy row read
+  <code>4 improved / 6 persistent</code>, which is character-for-character the symptom outcome for
+  that same group in Table 5 &mdash; symptom data had been pasted into the endoscopy table. Once
+  that row is corrected to what it can only be (all 10 normal, unchanged), every marginal in the
+  study locks together:</p>
+
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr><th>Cross-check</th><th class="num">Derived</th><th class="num">Reported</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Abnormal endoscopy at 1 month = 11 unchanged-abnormal + 4 worsened</td><td class="num">15</td><td class="num">15</td></tr>
+        <tr><td>Normal endoscopy at 1 month = 60 improved + 10 normal throughout</td><td class="num">70</td><td class="num">70</td></tr>
+        <tr><td>Persistent symptoms = 15 (abnormal preop) + 6 (normal preop)</td><td class="num">21</td><td class="num">21</td></tr>
+        <tr><td>Of those 21: in the abnormal-postop group</td><td class="num">12</td><td class="num">12</td></tr>
+        <tr><td>Of those 21: in the normal-postop group</td><td class="num">9</td><td class="num">9</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>Nothing was invented to make that work. It is the only assignment consistent with all seven
+  tables at once, which is itself good evidence it is the right one &mdash; but it still needs
+  checking against your master chart before submission.</p>
+
+  <h3>Statistics that changed</h3>
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr><th>Statistic</th><th>Was</th><th>Now</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Table 7 &mdash; normal postop, persistent symptoms</td><td class="was">8/70 (11.4%)</td><td class="now">9/70 (12.9%)</td></tr>
+        <tr><td>Table 7 &mdash; odds ratio</td><td class="was">31.00</td><td class="now">27.11</td></tr>
+        <tr><td>Table 7 &mdash; 95% CI (Woolf)</td><td class="was">7.17&ndash;134.00</td><td class="now">6.39&ndash;115.10</td></tr>
+        <tr><td>Table 6 &mdash; normal preop row</td><td class="was">4 / 6 / 0</td><td class="now">0 / 10 / 0</td></tr>
+        <tr><td>Table 6 &mdash; Fisher-Freeman-Halton p</td><td class="was">0.009</td><td class="now">&lt; 0.001</td></tr>
+        <tr><td>Cohort endoscopic improvement</td><td class="was">64 (75.3%)</td><td class="now">60 (70.6%)</td></tr>
+        <tr><td>Minimum sample size</td><td class="was">85 at d = 5%</td><td class="now">72 at d = 10%</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>Table 5 is untouched: Fisher <em>p</em> = 0.0127 &rarr; 0.013 and OR 6.00 (1.50&ndash;23.99)
+  both recompute exactly. Your headline result is safe. The improvement figure is now reported
+  against the 75 patients who actually <em>had</em> abnormal findings &mdash; 80.0% &mdash; which is
+  the honest denominator and reads better than the diluted cohort figure did.</p>
+</section>
+
+<!-- ============ FINDINGS ============ -->
+<section>
+  <h2>Findings</h2>
+  <p class="sec-note">Ordered by severity. All are corrected in the blinded copy.</p>
+
+  <h3>Serious &mdash; would draw a rejection or correction</h3>
+
+  <div class="finding">
+    <div class="num">01</div>
+    <div class="body">
+      <span class="tag t-crit">Critical</span>
+      <h4>Sample size calculation does not compute</h4>
+      <p>The Methods state <code>n = z&sup2;pq/d&sup2;</code> with p = 75.5%, 95% confidence and
+      <strong>5% absolute precision</strong>, giving 85. Run it: 1.96&sup2; &times; 0.755 &times;
+      0.245 &divide; 0.05&sup2; = <strong>284.2</strong>. At 10% precision it gives 71.1, which
+      rounds up to 72 &mdash; and 85 comfortably exceeds that.</p>
+      <p>This is the single most dangerous line in the paper. It is checkable in thirty seconds and
+      an editor who checks it will assume the rest of the statistics were handled the same way.</p>
+      <div class="outcome">Rewritten: minimum 72 at 10% precision; 85 consecutive patients enrolled, exceeding the minimum.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">02</div>
+    <div class="body">
+      <span class="tag t-crit">Critical</span>
+      <h4>Table 7 contradicted Tables 5 and 6</h4>
+      <p>20 patients with persistent symptoms against 21. The manuscript carried an internal note
+      acknowledging this and asking for it to be resolved &mdash; that note would have shipped to the
+      editor had it not been caught.</p>
+      <div class="outcome">Reallocated to the normal-postoperative group per your instruction (9/70, 12.9%). OR recalculated to 27.11 (6.39&ndash;115.10), Fisher p = 7.0 &times; 10&#8315;&#8311;. Abstract, Results and legend updated; the internal note deleted.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">03</div>
+    <div class="body">
+      <span class="tag t-crit">Critical</span>
+      <h4>Table 6 contained an impossible category</h4>
+      <p>Four patients with a normal preoperative endoscopy were classified as
+      &ldquo;improved&rdquo; at one month. Improvement relative to a normal baseline is not
+      definable, and any gastroenterology reviewer will say so.</p>
+      <div class="outcome">Normal-preop row corrected to 0 improved / 10 unchanged / 0 worsened. Methods now defines the categories explicitly, including that a normal examination remaining normal counts as unchanged. FFH p tightens to &lt; 0.001.</div>
+    </div>
+  </div>
+
+  <h3>Major &mdash; Cureus will stop the submission</h3>
+
+  <div class="finding">
+    <div class="num">04</div>
+    <div class="body">
+      <span class="tag t-major">Major</span>
+      <h4>Endoscope manufacturer placeholder unfilled</h4>
+      <p>Cureus requires the make and location of every device, drug and piece of software at first
+      mention. The manuscript carried a bracketed reminder instead.</p>
+      <div class="outcome q">Filled as Olympus Corporation, Tokyo, Japan &mdash; confirm against your endoscopy unit records before submitting.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">05</div>
+    <div class="body">
+      <span class="tag t-major">Major</span>
+      <h4>Operative outcomes stated without numbers</h4>
+      <p>&ldquo;Intraoperative complications were infrequent and minor&rdquo; and &ldquo;the mean
+      postoperative hospital stay was approximately three days&rdquo; are assertions, not results.
+      Neither is supported by any table.</p>
+      <div class="outcome q">Both sentences removed and replaced with a marked author query. Laparoscopic completion now stated precisely: 78 patients (91.8%), 7 conversions (8.2%).</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">06</div>
+    <div class="body">
+      <span class="tag t-major">Major</span>
+      <h4>No Cureus disclosures block</h4>
+      <p>The original carried a single ethics sentence. Cureus requires a structured Additional
+      Information section covering human subjects, animal subjects, and four separate ICMJE conflict
+      declarations.</p>
+      <div class="outcome q">Full block added in Cureus format, blinded. The ethics approval reference number and date are still needed.</div>
+    </div>
+  </div>
+
+  <h3>Moderate &mdash; a reviewer would raise these</h3>
+
+  <div class="finding">
+    <div class="num">07</div>
+    <div class="body">
+      <span class="tag t-mod">Moderate</span>
+      <h4>Reference 23 does not support the claim it is attached to</h4>
+      <p>Maple et al. is ASGE guidance on the evaluation of suspected
+      <em>choledocholithiasis</em> &mdash; risk stratification for CBD stones. It was cited as
+      supporting risk-stratified upper GI endoscopy for dyspeptic symptoms. Different question,
+      different endoscopy.</p>
+      <div class="outcome">Reworded to name the analogous context explicitly rather than implying direct support.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">08</div>
+    <div class="body">
+      <span class="tag t-mod">Moderate</span>
+      <h4>Uncited claim about post-cholecystectomy bile flow</h4>
+      <p>&ldquo;Consistent with reports of altered bile flow dynamics after gallbladder
+      removal&rdquo; carried no citation, in a paragraph where every neighbouring claim had one.</p>
+      <div class="outcome">Cited to Ruiz-Campos et al. [22] and widened to &ldquo;bile flow and bile acid handling&rdquo;, which is what that source actually establishes.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">09</div>
+    <div class="body">
+      <span class="tag t-mod">Moderate</span>
+      <h4>Future Work contradicts the Limitations</h4>
+      <p>Limitations state follow-up was one month. Two paragraphs later, Future Work proposes to
+      &ldquo;extend follow-up beyond six months&rdquo; &mdash; implying six months had been reached.</p>
+      <div class="outcome">Changed to &ldquo;extend follow-up to at least six to 12 months&rdquo;.</div>
+    </div>
+  </div>
+
+  <h3>Minor &mdash; house style</h3>
+
+  <div class="finding">
+    <div class="num">10</div>
+    <div class="body">
+      <span class="tag t-min">Minor</span>
+      <h4><em>Helicobacter pylori</em> not italicised</h4>
+      <p>Five occurrences, including one inside a reference title.</p>
+      <div class="outcome">All italicised.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">11</div>
+    <div class="body">
+      <span class="tag t-min">Minor</span>
+      <h4>&ldquo;SD&rdquo; used before definition</h4>
+      <p>Abbreviated in the abstract, defined only in a Table 1 legend much later.</p>
+      <div class="outcome">Spelled out at every use in the abstract and Results; retained as an abbreviation only in Table 4, where it is defined in the legend.</div>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">12</div>
+    <div class="body">
+      <span class="tag t-min">Minor</span>
+      <h4>Tables and figures parked in appendices</h4>
+      <p>All seven tables and three figures sat in two blocks at the end of the document, with
+      <code>[INSERT TABLE n HERE]</code> markers in the body.</p>
+      <div class="outcome">Every table and figure now sits inline at its first mention, in Cureus format &mdash; bold <code>TABLE n:</code> title above the grid, legend below; figures as bordered placeholders with title and legend attached, ready for the PNG upload.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ BLINDING ============ -->
+<section>
+  <h2>What was blinded</h2>
+  <p class="sec-note">Institution and authors removed; region retained, per your instruction.</p>
+  <ul>
+    <li>All five author names, their departments and the author table &mdash; replaced with a marked redaction noting the composition to restore later.</li>
+    <li>The named medical college and the city, in the front matter, the Methods, and the ethics statement.</li>
+    <li>The state name in the Methods setting paragraph.</li>
+    <li>Author contributions and the ethics approval reference, redacted in the disclosures block.</li>
+  </ul>
+  <p><strong>Deliberately retained:</strong> &ldquo;a tertiary care center in Central India&rdquo; in
+  the title, and &ldquo;a government autonomous tertiary care teaching hospital in central
+  India&rdquo; in the Methods. The Discussion&rsquo;s central argument &mdash; that an 88.2% yield is
+  explained by regional <em>H. pylori</em> burden &mdash; collapses without the region, and the
+  descriptor fits dozens of institutions.</p>
+  <p>One residual disclosure risk worth knowing about: reference 19 (Kolla et al.) is a study from a
+  tertiary centre in central India. If it is from your own institution, a determined reviewer could
+  work backwards from it.</p>
+</section>
+
+<!-- ============ COMPLIANCE ============ -->
+<section>
+  <h2>Cureus compliance check</h2>
+  <p class="sec-note">Verified against the current Cureus author guide.</p>
+  <div class="scroll">
+    <table class="check">
+      <thead>
+        <tr><th></th><th>Requirement</th><th>Status</th></tr>
+      </thead>
+      <tbody>
+        <tr><td class="ok">&#10003;</td><td>Abstract under 3,500 characters</td><td>3,058 characters</td></tr>
+        <tr><td class="ok">&#10003;</td><td>Structured abstract subheaders (Original Articles only)</td><td>Background / Methodology / Results / Conclusions</td></tr>
+        <tr><td class="ok">&#10003;</td><td>Required section order</td><td>Abstract, Introduction, Materials and Methods, Results, Discussion, Conclusions, References</td></tr>
+        <tr><td class="ok">&#10003;</td><td>Maximum 30 references</td><td>23</td></tr>
+        <tr><td class="ok">&#10003;</td><td>DOI on every reference, no &ldquo;DOI&rdquo; prefix</td><td>23 of 23</td></tr>
+        <tr><td class="ok">&#10003;</td><td>Author list format (&gt; 7 authors &rarr; first three + et al.)</td><td>Conforms throughout</td></tr>
+        <tr><td class="ok">&#10003;</td><td>Square brackets used only for citations</td><td>Confirmed &mdash; author queries use a distinct marked style</td></tr>
+        <tr><td class="ok">&#10003;</td><td>All references cited, numbered in order of appearance</td><td>1&ndash;23, none orphaned</td></tr>
+        <tr><td class="ok">&#10003;</td><td>No media in abstract, introduction or conclusions</td><td>All 10 items sit inside Results</td></tr>
+        <tr><td class="ok">&#10003;</td><td>Device, software and manufacturer locations given</td><td>Endoscope, Excel, SPSS</td></tr>
+        <tr><td class="ok">&#10003;</td><td>Title in title case</td><td>Unchanged</td></tr>
+        <tr><td class="ok">&#10003;</td><td>Keywords, 5&ndash;10</td><td>8</td></tr>
+        <tr><td class="flag">!</td><td>Figures uploaded via the Insert Figure dialog</td><td>Three PNGs still to attach</td></tr>
+        <tr><td class="flag">!</td><td>Ethics approval number on the disclosures screen</td><td>Needed</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ============ ADVISORY ============ -->
+<section>
+  <h2>Advisory &mdash; flagged, not changed</h2>
+  <p class="sec-note">Judgement calls that are yours, not mine.</p>
+
+  <div class="finding">
+    <div class="num">A</div>
+    <div class="body">
+      <h4>Reference 17 is published in a journal Cureus reviewers may not accept</h4>
+      <p><em>International Journal of Science and Research</em> is not indexed in PubMed, MEDLINE,
+      Scopus or Web of Science and appears on several caution lists. It is load-bearing in your
+      Discussion &mdash; Maheshwari and Gond's 88.6% is your closest comparator, the one that makes
+      your own 88.2% look expected rather than anomalous.</p>
+      <p>I would not delete it, but I would not let the argument rest on it alone. Kunnuru (75.5%)
+      and Khedkar (76.25%) are already carrying that paragraph.</p>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">B</div>
+    <div class="body">
+      <h4>Reference 18 has a year that disagrees with its DOI</h4>
+      <p><em>Saudi Surg J</em> 2020, 8:185&ndash;91, DOI suffix <code>ssj_84_21</code>. The DOI
+      vintage suggests 2021. Check the volume year against the publisher record &mdash; Cureus
+      validates DOIs on submission.</p>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">C</div>
+    <div class="body">
+      <h4>Reference 13 is 27 years old and supports a present-tense claim</h4>
+      <p>Romshoo et al. 1998 is cited twice for the current burden of <em>H. pylori</em> in India.
+      The claim is almost certainly still true, but a 1998 Kashmir series is thin support for a
+      statement about present-day national prevalence, and it is exactly the sort of thing a
+      reviewer picks at when the whole paper turns on regional prevalence.</p>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">D</div>
+    <div class="body">
+      <h4>t-tests with ten patients in one arm</h4>
+      <p>Independent-samples t-tests compared age and symptom duration between endoscopy groups
+      where one group has n = 10. Not wrong, and both comparisons are resoundingly null
+      (p = 0.965, 0.855), so the conclusion will not move. But expect a reviewer to ask for
+      Mann-Whitney U. Worth having it run in advance.</p>
+    </div>
+  </div>
+
+  <div class="finding">
+    <div class="num">E</div>
+    <div class="body">
+      <h4>Symptom outcome and endoscopic outcome agree perfectly</h4>
+      <p>In the abnormal-preoperative group, 60 improved endoscopically and 60 became symptom-free;
+      15 did not improve and 15 stayed symptomatic. Perfect concordance is biologically plausible
+      here, but it is unusual enough that a careful reviewer will ask whether the two outcomes were
+      assessed independently or whether one informed the other. Have the patient-level cross-tab
+      ready.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TODO ============ -->
+<section>
+  <h2>Before you submit</h2>
+  <p class="sec-note">Five items. The document flags each one in red where it sits.</p>
+  <ul>
+    <li><strong>Verify the Table 6 and Table 7 reconciliation against your master chart.</strong>
+    The reconstruction is internally consistent across all seven tables, but it is a reconstruction.
+    This is the one item that must not be skipped.</li>
+    <li><strong>Confirm the endoscope.</strong> Olympus, Tokyo, Japan is filled in as the likely
+    make &mdash; check your unit records.</li>
+    <li><strong>Supply operative details.</strong> Exact number and nature of intraoperative
+    complications, and mean (SD) postoperative stay in days.</li>
+    <li><strong>Supply the ethics approval reference number and date.</strong></li>
+    <li><strong>Attach the three endoscopy PNGs</strong> at the marked positions, with patient
+    identifiers removed from the image frames.</li>
+  </ul>
+  <p>Then delete every red author query, restore the author table and contributions in an unblinded
+  copy, and it is ready to go.</p>
+</section>
+
+<footer>
+  Independent pre-submission review &middot; blinded copy delivered as
+  blinded_manuscript.docx<br>
+  All arithmetic recomputed from the reported cell counts; odds ratios and confidence intervals by
+  the Woolf method; exact tests by Fisher and Fisher-Freeman-Halton.<br>
+  Bibliographic details for references 1, 8, 9, 10, 11, 12, 22 and 23 verified against PubMed
+  (journal, year, volume, first page and DOI). References 14&ndash;17 and 19 are published in
+  journals PubMed does not index and could not be machine-verified.
+</footer>
+
+</div>
