@@ -39,15 +39,15 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | Neetu Yoshi | NEETUYOSHI | ~₹157–173 | Soft | Warrants at ₹104 priced back in Apr-26; only 25% upfront |
 | Avience Biomedicals | AVIENCE | ₹246 | **Too early** | Listed Jun-26, no post-IPO results, –40% from high |
 
-## ⚠️ Reviewed as news only — NOT sized against financials
+## Tier 1 additions — the 25-Aug names, now sized (03 Sep)
 
-These came in the 26 Aug dump and got one-line takes. **If you want them in a Sunday shortlist, say so — they need real work first.**
-
-- Vinyas Innovative Technologies *(CRISIL upgrade to A-/Stable + ₹110 Cr orders on ₹1,400 Cr book — was the strongest item that day)*
-- One Point One Solutions *(open-ended fund raise)*
-- Sunita Tools *(defence MoU, no value disclosed)*
-- Ritco Logistics *(₹78 Cr raised at step-down subsidiary TrucksUp)*
-- Advait Energy Transitions *(₹135 Cr MPPTCL order)*
+| Company | Ticker | Reviewed @ | Mcap | PE | Verdict | The one issue | Next checkpoint |
+|---|---|---|---|---|---|---|---|
+| **Sunita Tools** | SUNITATOOL (BSE SME) | ₹705 | ~₹437–590 Cr | 71x FY26 / **~12x fwd** | **RESEARCH — game-changer setup** | ₹576 Cr order = **12x** FY26 revenue. Needs a 6x revenue ramp — execution + working-capital risk is the whole story | Monthly billing run-rate vs the ₹24 Cr/month schedule |
+| Vinyas Innovative | VINYAS | ₹1,572 | ~₹1,959 Cr | ~63x | Watch — great news, full price | Order book ₹1,309 Cr = 2.5x revenue, book-to-bill 1.9x. But 63x on ₹30.9 Cr PAT | Order-book conversion into FY27 revenue |
+| Advait Energy Transitions | ADVAIT | ₹2,215 (Jun) | ~₹2,256 Cr | ~37x, P/B 8.1 | Watch | ~₹362 Cr of orders announced recently = 47% of FY26 revenue. Rich on book value | Order execution; margin on solar EPC vs T&D |
+| Ritco Logistics | RITCO | ₹306.75 | ~₹880 Cr | — | Watch — **puzzle resolved** | Standalone PAT ₹11.93 Cr (-4.8%); **consolidated ₹3.47 Cr (-61%)** purely from TrucksUp burn. ₹78 Cr raise moves that burn to outside investors — mildly positive | Ritco's post-dilution % in TrucksUp; petrochem recovery |
+| One Point One Solutions | ONEPOINT | ₹56.6 | ~₹1,667 Cr | ~42x | ⚠️ **Dilution flag** | ₹228 Cr preferential (Q4 FY26) + ₹84 Cr warrants + another raise now — on ₹313 Cr revenue growing only 22% | What the 4 Sep raise is actually for |
 
 ---
 
@@ -56,4 +56,6 @@ These came in the 26 Aug dump and got one-line takes. **If you want them in a Su
 1. **Cash flow is the differentiator.** Five of the names above grow revenue fast while burning cash. V-Marc is the only one that doubled revenue while *improving* its cash conversion cycle — which is exactly why it trades at 34x and the others don't.
 2. **Media units errors are constant.** Seen on Glen (₹100.49 Cr reported as ₹1,004.9 Cr), Indo Tech (₹92.77 Cr as ₹9,277 Cr), Neetu Yoshi (₹27.5 Cr as ₹274.89 Cr), V2 Retail (₹162 Cr as ₹1,620 Cr), PNGS Reva (full-year PAT reported as Q4). **Always cross-check headline numbers against filings.**
 3. **Size the news against the company.** An order is only a trigger if it is large relative to annual revenue *and* executes soon. ₹31 Cr spread to 2032 is not a trigger.
-4. **Promoter buying: size matters.** Glen's promoter bought ₹46–57 Lakh repeatedly on a ₹283 Cr company. Enviro Infra's bought ₹14.6 Lakh on a ₹2,719 Cr company. Proportionally ~100x different in conviction.
+4. **"Story, not a trigger" can hide the real story.** Sunita Tools' MoU was correctly dismissed as a framework agreement with no value — but the company already held a ₹576 Cr order worth 12x its revenue. **Always size the company before dismissing its news.**
+5. **Standalone vs consolidated matters.** Ritco's consolidated PAT fell 61% while the core business was flat. The loss was entirely a scaling subsidiary. Read both.
+6. **Promoter buying: size matters.** Glen's promoter bought ₹46–57 Lakh repeatedly on a ₹283 Cr company. Enviro Infra's bought ₹14.6 Lakh on a ₹2,719 Cr company. Proportionally ~100x different in conviction.
