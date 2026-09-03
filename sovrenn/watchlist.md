@@ -99,3 +99,36 @@ Only the **first advance payment** on the 155mm order has been received.
 - Global 155mm demand structurally strong; FY29 target ₹636 Cr; US market MoU
 
 **Open question:** counterparty on the ₹576 Cr order is unnamed ("a domestic entity", deemed export).
+
+### Sunita Tools — formal Sovrenn 8-session scorecard (03 Sep 2026)
+
+**PASSES (where Sovrenn measures opportunity)**
+- Business verification ✅ — 38-yr-old company, real plant, externally approved NATO-spec test reports
+- Macro tailwind ✅ — Defence is Sovrenn's #1 "Govt Favourite" theme
+- **Heavy Order Book (>10x annual sales) ✅✅ — ₹576 Cr / ₹48 Cr = 12x.** The framework's most demanding bar
+- Game Changer Single Order ✅ (cf. RBM Infracon, Kernex) | Capacity Expansion ✅ | New Product ✅ | Sales Momentum ✅
+- Balance sheet adequate today: D/E 0.60, current ratio 1.46, reserves +56%
+
+**FAILS (where Sovrenn measures risk)**
+- **Golden Rule fails 2/3** — Momentum ✅ + Expansion lever ✅ + **Track Record ❌**
+- **Valuation: 71.6x** vs Sovrenn's "<30 cheap, <15 very cheap". Worse because the base business is cyclical
+- **Proactive red flag: "Extreme valuation after rapid price surge"** — +76% in 5 weeks (Feb–Mar 26); 52-wk band ₹553–₹1,124 is 2x
+- **Profit Momentum ❌** — FY26 revenue +54% but PAT only +28%; net margin 15.8%→12.9%
+- **HNI confirmation ❌** — no bulk deal, no preferential, no known investor entry
+- **No clean entry point** — pattern is "No Trend / large choppy range = difficult to time". Entry framework's precondition (low current PE) fails outright
+- Q1 FY27 disclosed net sales but **no PAT**
+
+**Valuation matrix position:** Expensive current PE + conditionally cheap forward PE
+=> Sovrenn's own label: **"Moderate risk — growth must execute"**
+
+**UNVERIFIED (do before any purchase):** CFO figure | RPT note in annual report |
+promoter history (Pandey family — SEBI/fraud search) | IPO lead manager track record |
+order counterparty identity (unnamed "domestic entity", deemed export)
+
+**FRAMEWORK VERDICT: WATCH** (not BUY)
+
+**Three things that would flip it to BUY:**
+1. Q2 FY27 billing approaching ₹24 Cr/month → converts "Unknown track record" to "Proven"
+2. A fund raise at a decent price with HNI/institutional participation → fixes the working
+   capital gap AND supplies the missing HNI confirmation in one move
+3. A price base forming → gives an actual entry point instead of a 2x choppy band
