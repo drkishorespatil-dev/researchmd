@@ -5,6 +5,17 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 03 Sep 2026
+
+| # | Company | News sized | Verdict |
+|---|---|---|---|
+| 3 | **Indo Tech Transformers** | ₹165.55 Cr AP TRANSCO = **20.9% of FY26 revenue** (₹792.5 Cr), exec **Oct 26–Jun 27**. State utility, not a renewable IPP | 🔥 Best item. **Corrects my Aug "non-event" call** — 3x bigger, better counterparty, near-term |
+| 2 | RPG Life Sciences | ₹135 Cr for Raghava API business doing **₹19 Cr revenue = ~7x sales**. Own FY26 PAT **fell 37%** to ₹115.2 Cr; ~38x | ⚠️ Buying capability (300 KL EU-GMP + 22 APIs), not cash flow |
+| 6 | Anondita Medicare | **L1 bidder ≠ order awarded.** 8 Cr condoms ≈ ₹12–20 Cr ≈ 10–15% of ₹137.4 Cr revenue. Prior CMSS orders only ₹7.18/₹2.92 Cr. Bigger news was ₹43.14 Cr South Africa export (31% of revenue) | ➖ A step. FY26 PAT ₹34.3 Cr (+108%), 37% EBITDA — but ~59x |
+| 4 | Jeena Sikho Lifecare | 6 SKUs, unquantified. FY26 rev ₹801 Cr, **EBITDA ₹349 Cr = 43.6% margin** (exceptional — scrutinise). Stock ₹515 near 52-wk LOW ₹492, -39% from ₹850. Targets ₹3,000 Cr rev in 2 yrs | ➖ Small news, **stock worth separate look** |
+| 1 | KFin Technologies | ARYA AI platform, no revenue quantified. FY26 rev **+19.1%** but **PAT only +3.3%** (₹343.7 Cr); ~47x | ➖ Non-event. Real story is margin compression |
+| 5 | **Afcom Holdings** | LOI (not a purchase agreement) for 4x Boeing 777-8F. Widebody freighters plausibly worth **more than the ₹4,140 Cr market cap**; 777X programme repeatedly delayed; **no financing disclosed**. FY26 rev ₹587.7 Cr (+144%) | 🚨 **Announcement, not a trigger.** Watch for definitive agreement + financing |
+
 ## 02 Sep 2026
 
 | # | Company | News sized | Verdict |
@@ -46,4 +57,7 @@ Verdicts feed into `watchlist.md`.
 - **Sathlokhar**: did the ₹234 Cr unbilled revenue convert? (H1 FY27, ~Nov 2026)
 - **Sunita Tools**: ANSWERED 03 Sep — it is NOT yet funded (~₹245 Cr needed vs ₹70 Cr net worth). Watch for a fund raise. Also: BSE SME only (lot 125 ≈ ₹88k, workable); run-rate at 26% of requirement. See deep-dive in watchlist.md
 - **Ritco**: holding % in TrucksUp post the ₹78 Cr round
+- **Afcom Holdings**: does a definitive purchase agreement + financing structure ever appear?
+- **Jeena Sikho**: how is a 43.6% EBITDA margin sustained in Ayurveda hospitals? FY26 PAT figure needed
+- **Deepak Nitrite**: Stade re-erection milestones; debt drawdown as capex ramps; phenol-benzene spreads
 - **User inputs still needed**: existing holdings, ticket size, horizon

@@ -35,7 +35,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 |---|---|---|---|---|
 | ABS Marine Services | ABSMARINE | ₹286 | Caution | ~8x looks cheap but 47% EBITDA = cycle-peak; debt ₹46 Cr → ₹351 Cr |
 | Shanti Gold Intl | SHANTIGOLD | ₹267 | Non-event + question | Buying its own customer's listed shares (₹5 Cr, 0.03%) — capital allocation query |
-| Indo Tech Transformers | INDOTECH | ₹2,420 (May) | Non-event | ₹55 Cr = 6.9% of revenue; renewable-IPP orders have cancellation history |
+| Indo Tech Transformers | INDOTECH | ₹2,420 (May) | **UPGRADED 03 Sep** | ₹165.55 Cr AP TRANSCO order = 20.9% of revenue, exec Oct 26–Jun 27, **state utility counterparty**. ~27x. Aug "non-event" call superseded |
 | Neetu Yoshi | NEETUYOSHI | ~₹157–173 | Soft | Warrants at ₹104 priced back in Apr-26; only 25% upfront |
 | Avience Biomedicals | AVIENCE | ₹246 | **Too early** | Listed Jun-26, no post-IPO results, –40% from high |
 
@@ -132,3 +132,49 @@ order counterparty identity (unnamed "domestic entity", deemed export)
 2. A fund raise at a decent price with HNI/institutional participation → fixes the working
    capital gap AND supplies the missing HNI confirmation in one move
 3. A price base forming → gives an actual entry point instead of a 2x choppy band
+
+---
+
+## Deep-dive: Deepak Nitrite (03 Sep 2026) — the German polycarbonate deal
+
+**MAINBOARD, liquid — a different league from the SME names on this list.**
+
+**What they bought (Nov 2024):** Deepak Chem Tech Ltd (subsidiary) acquired from **Trinseo**
+its **165,000 MT polycarbonate plant at Stade, Germany** plus the **CALIBRE™ technology licence**.
+The plan: **physically dismantle it and ship it to Dahej, Gujarat.**
+**Status (Q1 FY27): dismantling underway, shipments to India already begun. Commissioning 2028.**
+
+**Why it's smart:** India imports ~100% of its polycarbonate. Deepak already makes phenol
+(Deepak Phenolics), so this closes the chain **phenol → acetone → BPA → polycarbonate** —
+India's first integrated PC ecosystem. A used plant + proven licence is far cheaper and
+faster than greenfield. Trinseo was exiting because European PC is uncompetitive on energy.
+
+**Capex programme ~₹11,000–11,500 Cr**
+- ₹3,500 Cr: 300 KTA phenol + 185 KTA acetone + 100 KTA IPA (greenfield)
+- ~₹5,000 Cr (~$600mn): PC assets + relocation
+- Spent so far ~₹1,200 Cr; another ₹1,500–1,600 Cr planned. Commissioning H2 FY28–FY29.
+- Feedstock secured via Praxair industrial gas deal.
+
+**Financials** — FY26 consolidated: revenue ₹7,887.07 Cr (Phenolics ₹5,400.68 Cr = **68%**,
+Advanced Intermediates ₹2,553.32 Cr), EBITDA ₹1,041 Cr (13.2%), PAT ₹550.66 Cr.
+Net worth ₹6,214 Cr, D/E 0.27x.
+**Q1 FY27 record:** PBT ₹468 Cr (+202%), PAT ₹345 Cr (+207%), **EBITDA margin 11% → 21%**.
+
+**Valuation @ ₹1,644, mcap ₹21,992 Cr:** FY26 PE ~40x | TTM ~28x | Q1 annualised ~16x
+
+**🚨 Four cautions**
+1. **CYCLICAL.** Phenolics (68% of revenue) is a commodity spread business. The 11%→21% margin
+   jump is a **cycle inflection, not structural**. Sovrenn: cyclicals look cheapest at the top.
+   **Do not annualise Q1.**
+2. **Capex = 1.9x net worth, 52% of market cap.** D/E 0.27x today, but only ₹1,200 Cr spent.
+   **The leverage is ahead, not behind.**
+3. **Zero revenue from this until FY28–FY29.** Funding 2–3 years of capex before any return.
+4. **Trinseo sold because it was unprofitable in Europe.** The bet is Indian energy costs +
+   import substitution fix that. Reasonable, but a bet. China PC oversupply is a live threat.
+
+**VERDICT: WATCH / accumulate on cyclical weakness — NOT on the Q1 print.**
+Buy chemical cyclicals when spreads are compressed and capex is nearly done — the opposite
+of now. A phenol-spread correction that knocks the stock 25–30% while the Stade plant keeps
+arriving in containers is the setup to wait for.
+
+**Track:** Stade re-erection milestones | debt drawdown as capex ramps | phenol-benzene spreads
