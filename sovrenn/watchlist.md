@@ -43,7 +43,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 
 | Company | Ticker | Reviewed @ | Mcap | PE | Verdict | The one issue | Next checkpoint |
 |---|---|---|---|---|---|---|---|
-| **Sunita Tools** | SUNITATOOL (**BSE SME only, not on NSE**) | ₹705 | ~₹443 Cr | ~72x FY26 | ⚠️ **HIGH-RISK SPECIAL SITUATION** — see deep-dive below | **₹7–8 LAKH minimum lot** (1,000 shares). Ramp at 26% of required run-rate. Working capital gap ~₹245 Cr vs ₹70 Cr net worth | Q2 FY27 billing run-rate; fund-raise announcement; mainboard migration (eligible Oct 2026) |
+| **Sunita Tools** | SUNITATOOL (**BSE SME only, not on NSE**) | ₹705 | ~₹443 Cr | ~72x FY26 | ⚠️ **HIGH-RISK SPECIAL SITUATION** — see deep-dive below | **Lot 125 shares ≈ ₹88k–₹1L ticket** (workable). BSE SME only, no NSE. Ramp at 26% of required run-rate. Working capital gap ~₹245 Cr vs ₹70 Cr net worth | Q2 FY27 billing run-rate; fund-raise announcement; mainboard migration (eligible Oct 2026) |
 | Vinyas Innovative | VINYAS | ₹1,572 | ~₹1,959 Cr | ~63x | Watch — great news, full price | Order book ₹1,309 Cr = 2.5x revenue, book-to-bill 1.9x. But 63x on ₹30.9 Cr PAT | Order-book conversion into FY27 revenue |
 | Advait Energy Transitions | ADVAIT | ₹2,215 (Jun) | ~₹2,256 Cr | ~37x, P/B 8.1 | Watch | ~₹362 Cr of orders announced recently = 47% of FY26 revenue. Rich on book value | Order execution; margin on solar EPC vs T&D |
 | Ritco Logistics | RITCO | ₹306.75 | ~₹880 Cr | — | Watch — **puzzle resolved** | Standalone PAT ₹11.93 Cr (-4.8%); **consolidated ₹3.47 Cr (-61%)** purely from TrucksUp burn. ₹78 Cr raise moves that burn to outside investors — mildly positive | Ritco's post-dilution % in TrucksUp; petrochem recovery |
@@ -66,7 +66,8 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 
 **Listing mechanics — the binding constraint**
 - BSE SME only, listed 11 Oct 2023 @ ₹145 (IPO just ₹20.91 Cr). **Not on NSE.**
-- **Lot size 1,000 shares → ₹7–8 lakh minimum ticket** at ~₹700–800. No partial entries or exits.
+- **Lot size 125 shares → ~₹88,000–₹1,00,000 per lot** at ~₹700–800 (user-confirmed 03 Sep; the 1,000-share IPO lot was revised down as the price rose). Position can be built and trimmed in lots — the instrument is NOT the blocker.
+- Still BSE SME **only, not on NSE** — thin order book, limited institutional participation, exits in size are the real risk (not minimum ticket).
 - Mainboard migration eligible ~Oct 2026 (3-yr rule); BSE tightened migration criteria Aug 2025.
 - 52-wk range ₹553–₹1,123.85 — a 2x range in one year.
 
