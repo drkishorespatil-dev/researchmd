@@ -43,7 +43,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 
 | Company | Ticker | Reviewed @ | Mcap | PE | Verdict | The one issue | Next checkpoint |
 |---|---|---|---|---|---|---|---|
-| **Sunita Tools** | SUNITATOOL (BSE SME) | ₹705 | ~₹437–590 Cr | 71x FY26 / **~12x fwd** | **RESEARCH — game-changer setup** | ₹576 Cr order = **12x** FY26 revenue. Needs a 6x revenue ramp — execution + working-capital risk is the whole story | Monthly billing run-rate vs the ₹24 Cr/month schedule |
+| **Sunita Tools** | SUNITATOOL (**BSE SME only, not on NSE**) | ₹705 | ~₹443 Cr | ~72x FY26 | ⚠️ **HIGH-RISK SPECIAL SITUATION** — see deep-dive below | **₹7–8 LAKH minimum lot** (1,000 shares). Ramp at 26% of required run-rate. Working capital gap ~₹245 Cr vs ₹70 Cr net worth | Q2 FY27 billing run-rate; fund-raise announcement; mainboard migration (eligible Oct 2026) |
 | Vinyas Innovative | VINYAS | ₹1,572 | ~₹1,959 Cr | ~63x | Watch — great news, full price | Order book ₹1,309 Cr = 2.5x revenue, book-to-bill 1.9x. But 63x on ₹30.9 Cr PAT | Order-book conversion into FY27 revenue |
 | Advait Energy Transitions | ADVAIT | ₹2,215 (Jun) | ~₹2,256 Cr | ~37x, P/B 8.1 | Watch | ~₹362 Cr of orders announced recently = 47% of FY26 revenue. Rich on book value | Order execution; margin on solar EPC vs T&D |
 | Ritco Logistics | RITCO | ₹306.75 | ~₹880 Cr | — | Watch — **puzzle resolved** | Standalone PAT ₹11.93 Cr (-4.8%); **consolidated ₹3.47 Cr (-61%)** purely from TrucksUp burn. ₹78 Cr raise moves that burn to outside investors — mildly positive | Ritco's post-dilution % in TrucksUp; petrochem recovery |
@@ -59,3 +59,42 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 4. **"Story, not a trigger" can hide the real story.** Sunita Tools' MoU was correctly dismissed as a framework agreement with no value — but the company already held a ₹576 Cr order worth 12x its revenue. **Always size the company before dismissing its news.**
 5. **Standalone vs consolidated matters.** Ritco's consolidated PAT fell 61% while the core business was flat. The loss was entirely a scaling subsidiary. Read both.
 6. **Promoter buying: size matters.** Glen's promoter bought ₹46–57 Lakh repeatedly on a ₹283 Cr company. Enviro Infra's bought ₹14.6 Lakh on a ₹2,719 Cr company. Proportionally ~100x different in conviction.
+
+---
+
+## Deep-dive: Sunita Tools (03 Sep 2026) — why the "game changer" needs qualifying
+
+**Listing mechanics — the binding constraint**
+- BSE SME only, listed 11 Oct 2023 @ ₹145 (IPO just ₹20.91 Cr). **Not on NSE.**
+- **Lot size 1,000 shares → ₹7–8 lakh minimum ticket** at ~₹700–800. No partial entries or exits.
+- Mainboard migration eligible ~Oct 2026 (3-yr rule); BSE tightened migration criteria Aug 2025.
+- 52-wk range ₹553–₹1,123.85 — a 2x range in one year.
+
+**Execution reality — the key finding**
+| | |
+|---|---|
+| ₹576 Cr order requires | ₹24 Cr/month |
+| Q1 FY27 actual net sales | ₹18.64 Cr/quarter = **₹6.2 Cr/month** |
+| Run-rate vs requirement | **~26%** |
+
+Management attributed the +350% Q1 jump to **Legacy Business** expansion, not defence.
+Only the **first advance payment** on the 155mm order has been received.
+=> The ₹576 Cr order has barely started hitting the P&L.
+
+**Balance sheet — the ramp is not funded**
+- FY26 revenue ₹47.3–48.0 Cr (+54%), PAT ₹6.19 Cr (**+28% only** — profit lagging revenue)
+- Net worth ~₹70.4 Cr | Total assets ₹134.7 Cr (from ₹57.5 Cr) | Borrowings ₹42.57 Cr (₹31.64 Cr short-term)
+- D/E 0.60, current ratio 1.46 — not stretched yet
+- **Cash conversion cycle 311.9 days** (improved from 526.5, still ~10 months)
+- **ROCE 10.5%, ROE 11.1%** — low-return business historically (cf. V-Marc at 35%)
+- At 312-day cycle, ₹288 Cr of annual revenue needs ~₹245 Cr working capital vs ₹70 Cr net worth
+  => **a large raise (equity or debt) or heavy customer advances is unavoidable. Expect dilution.**
+
+**What's genuinely good**
+- Incorporated 1988 — real 38-year-old engineering company, business verification passes
+- NATO-spec M107 prototypes delivered, test reports approved — the hard technical qualification is done
+- First advance received (order is real money, not paper)
+- Balance sheet strengthened in FY26: assets 2.3x, reserves +56%, cash cycle 526→312 days
+- Global 155mm demand structurally strong; FY29 target ₹636 Cr; US market MoU
+
+**Open question:** counterparty on the ₹576 Cr order is unnamed ("a domestic entity", deemed export).

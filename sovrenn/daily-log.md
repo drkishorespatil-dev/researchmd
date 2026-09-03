@@ -44,6 +44,7 @@ Verdicts feed into `watchlist.md`.
 - **Enviro Infra**: FY26 cash flow statement + receivables ageing (municipal counterparties)
 - **PNGS Reva**: other-income line (₹285 Cr IPO cash may be carrying the 23% PAT margin); FY26 RPT note
 - **Sathlokhar**: did the ₹234 Cr unbilled revenue convert? (H1 FY27, ~Nov 2026)
-- **Sunita Tools**: how is the 6x revenue ramp being working-capital funded?
+- **Sunita Tools**: ANSWERED 03 Sep — it is NOT yet funded (~₹245 Cr needed vs ₹70 Cr net worth). Watch for a fund raise. Also: BSE SME only, ₹7–8 lakh minimum lot; run-rate at 26% of requirement. See deep-dive in watchlist.md
 - **Ritco**: holding % in TrucksUp post the ₹78 Cr round
+- **Sunita Tools**: verify current BSE market lot before assuming ₹7–8 lakh ticket
 - **User inputs still needed**: existing holdings, ticket size, horizon
