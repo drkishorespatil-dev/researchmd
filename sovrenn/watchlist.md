@@ -17,6 +17,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | PNGS Reva Diamond | PNGSREVA | ₹515 (2 Sep) | ~₹1,633 Cr | 19x | 13–15x | **WATCH** — verify RPT first | 99.6% of revenue via promoter-owned stores; CFO –₹105 Cr; 393 inventory days | Q3 FY27 (Diwali); other-income line |
 | Blue Water Logistics | BLUEWATER | ₹455 (26 Aug) | ~₹500 Cr | 14x | 8–10x | **BUY ON DIPS** | CFO –₹53 Cr; D/E 1.3; cyclical freight | H1 FY27 operating cash flow |
 | **CSL Finance** | CSLFINANCE (**NSE+BSE mainboard**) | **₹253 (4 Sep)** | ~₹569 Cr | **P/B 0.93x** (PE 6.6x) | 0.81x FY27E book | **STARTER POSITION** | Capital not deployed — net AUM +₹30 Cr in Q1. PAT growth 19.4%→**+4%**. 70% wholesale and rising | Disbursal-minus-collection spread; GNPA trend; exact promoter % |
+| **Marksans Pharma** | MARKSANS (**mainboard**) | ₹326 (4 Sep) | ~₹14,774 Cr | 28.5x TTM | **~29x FY27E** | **BUY / ACCUMULATE** | Q1 margin 25.3% is a PEAK — mgmt guides FY27 to 20–21%. Do not annualise Q1 | Margin normalisation; organic vs inorganic mix |
 | Glen Industries | GLEN | ₹121.5 (26 Aug) | ~₹283 Cr | 17x | 14–16x | **WATCH** | FY26 PAT **fell 10%**; OPM 23.7%→18.8%; plant delayed twice | H1 FY27; Q3 FY27 plant commissioning |
 
 ## Tier 2 — Good business, wrong price
@@ -329,3 +330,47 @@ collections.
 
 **Still unresolved:** exact promoter holding — sources give ~48.2% in one place and ~29.93%
 in another. Sub-30% would be low for an NBFC. Check the current shareholding pattern.
+
+### Marksans Pharma — evaluation (04 Sep 2026) @ ₹326
+
+**Cleanest balance sheet on the entire watchlist.** Mainboard, liquid mid-cap (~45.3 Cr
+shares, mcap ~₹14,774 Cr). Store-brand OTC generics for UK/Europe/N.America/Australia.
+
+| FY26 | Q1 FY27 (record) |
+|---|---|
+| Revenue ₹2,951 Cr (+12.5%) | Revenue ₹840.8 Cr (**+35.6%**) |
+| PAT ₹418 Cr (+9.8%) | EBITDA ₹213 Cr (+112.8%), **margin 25.3% vs 16.1%** |
+| ROE 15.22% · ROCE 16.26% | PAT ₹159.4 Cr (**+173.9%**) · capex ₹33 Cr · **FCF +₹152 Cr** |
+| | **Net cash ₹1,031 Cr** |
+
+**🚨 DO NOT ANNUALISE Q1 — management guides margins DOWN.**
+Gross margin to normalise **59.1% → 55–56%** as low-cost inventory depletes.
+**FY27 guidance held: revenue +15–20%, EBITDA margin 20–21%** (not 25.3%).
+Europe +74.7% partly on the **QliniQ acquisition** (inorganic); N.America +15.1%.
+Quarter still *missed* consensus revenue despite the headline.
+
+**Valuation on guidance, not the record quarter:**
+FY27E revenue ₹3,394–3,541 Cr → EBITDA ₹679–744 Cr → PAT ~₹490–535 Cr
+→ **FY27E PE ~29x | EV/FY27E ~27x** (net of ₹1,031 Cr cash). Fair, not cheap.
+Target: **₹4,000 Cr revenue within 2 years** (~16% CAGR) — consistent with guidance.
+
+**✅ Standouts**
+1. **Net cash ₹1,031 Cr + real FCF.** Contrast the watchlist: Sathlokhar CFO –₹163 Cr,
+   PNGS Reva –₹105 Cr, Blue Water –₹53 Cr, Sunita Tools can't fund its own order.
+   **Marksans converts profit into cash.**
+2. **US FDA overhang REMOVED** — Goa (Verna) inspection closed, EIR received, VAI.
+3. **Management credibility** — guided margins down off a record quarter, kept FY27
+   guidance unchanged citing geopolitics/freight. Under-promising is worth something.
+
+**⚠️ Against**
+Limited pricing power (store-brand sold to hard-negotiating retailers) | FY26 was ordinary
+(+12.5%/+9.8%), the step-up is one quarter old | part of growth is bought, not organic |
+US tariff exposure on India-made pharma | ₹1,031 Cr idle cash drags ROE (15.2% is decent,
+not great) — capital allocation is the open question
+
+**VERDICT: BUY / ACCUMULATE — quality at a fair price. No material red flags.**
+
+**ALLOCATION IMPLICATION:** arguably a better core holding than Enviro Infra (CFO still
+unverified) or V-Marc (SME until migration, similar multiple, open margin question).
+Proposed restructure offered to user: CSL ₹2.4L / **Marksans ₹2.4L** / V-Marc ₹2L /
+Deepak ₹1.2L, reserve unchanged. Trades some upside for a sturdier core. Awaiting user.
