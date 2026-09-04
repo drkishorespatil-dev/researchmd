@@ -38,6 +38,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | Indo Tech Transformers | INDOTECH | ₹2,420 (May) | **UPGRADED 03 Sep** | ₹165.55 Cr AP TRANSCO order = 20.9% of revenue, exec Oct 26–Jun 27, **state utility counterparty**. ~27x. Aug "non-event" call superseded |
 | Neetu Yoshi | NEETUYOSHI | ~₹157–173 | Soft | Warrants at ₹104 priced back in Apr-26; only 25% upfront |
 | Avience Biomedicals | AVIENCE | ₹246 | **Too early** | Listed Jun-26, no post-IPO results, –40% from high |
+| **Srigee DLM** | SRIGEE (BSE SME) | ₹83.10 (4 Sep) | ❌ **AVOID** | 52-wk range ₹56.75–₹323.30 (**5.7x**) on **FLAT revenue** (+1.5%). Promoter only **45.37%**, public float 53.43%. Below IPO price 16 months on. Zero growth triggers |
 
 ## Tier 1 additions — the 25-Aug names, now sized (03 Sep)
 
@@ -197,3 +198,43 @@ borrowing limit, RPT resolutions — read the notice) | **~Nov Q2 FY27** (margin
 
 **Asymmetry:** once migration clears, funds currently rule-barred from an SME-platform stock
 can buy. ₹300 may not return. That is the case for starting now rather than waiting.
+
+### Srigee DLM — AVOID (04 Sep 2026)
+
+**First outright AVOID on this list.** BSE SME 544399, listed 12 May 2025 @ ₹94–99 IPO
+(fresh issue ₹16.98 Cr only). Design-led OEM/ODM plastics: injection moulding ~73%,
+polymer compounding & **trading ~22%** (low-quality revenue), tool room, phone sub-assembly.
+Incorporated 2005 — real company, business verification passes.
+
+| | ₹83.10 · mcap ₹49.64 Cr |
+|---|---|
+| PE / P-S | ~7.2x / 0.69x — statistically cheap |
+| FY25 → FY26 revenue | ₹71.23 Cr → ₹72.31 Cr = **+1.5%, essentially FLAT** |
+| FY26 PAT | ₹6.87 Cr (+37.2%) — **entirely margin, not growth** (7.02% → 9.06%) |
+| **52-wk range** | **₹56.75 – ₹323.30 = 5.7x** |
+| vs IPO price | **below it, 16 months after listing** |
+| Promoter / Instn / Public | **45.37%** / 1.21% / **53.43%** |
+
+**Why AVOID:** a 5.7x annual price range on a ₹50 Cr nano-cap with a 53% public float,
+while revenue stayed flat, is the signature of an operator-driven move — nothing in the
+business explains either the spike to ₹323 or the collapse to ₹57. Promoter holding under
+half is unusually low for a fresh-issue-only SME IPO (peers run 63–74%).
+
+**Sovrenn scoring: zero of the Golden Rule's three.** No momentum, no track record, no
+expansion lever underway. No order book, no commissioning date, no guidance, no HNI entry.
+The 7.2x PE is the framework's "cheap current PE + no forward growth" case = **value trap
+signature**, not a bargain.
+
+**Lesser flags:** only ₹6.66 Cr of ₹16.98 Cr IPO proceeds utilised after 16 months |
+manufacturing plant site "reallocated" from the stated IPO objective (disclosed, unmodified
+audit opinion) | half-yearly reporting only | H1 FY26 revenue ~₹18 Cr vs ~₹36 Cr in H1 FY25
+
+**Only positives:** margin expansion is real (702→906 bps), ROE ~16%, 2.68-acre plot at
+IITGNL/DMIC = expansion optionality, favourable EMS theme.
+
+⚠️ **UNRESOLVED DATA CONFLICT:** one aggregator reports TTM operating revenue of ₹161.81 Cr
+vs the company's own FY26 release of ₹72.31 Cr — a 2.2x gap. Results-release figure used.
+**Verify against the actual FY26 filing before acting.**
+
+**Would reconsider only after:** two consecutive halves of real revenue growth AND a stated
+use for the unspent IPO money.
