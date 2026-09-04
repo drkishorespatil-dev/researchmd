@@ -16,7 +16,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | Sathlokhar Synergys | SSEGL | ₹398 (2 Sep) | ~₹1,040 Cr | 11x | 9–10x | **WATCH** → H1 FY27 | CFO **–₹163 Cr** vs PAT +₹82 Cr; ₹234 Cr unbilled revenue | H1 FY27 results (~Nov 2026) |
 | PNGS Reva Diamond | PNGSREVA | ₹515 (2 Sep) | ~₹1,633 Cr | 19x | 13–15x | **WATCH** — verify RPT first | 99.6% of revenue via promoter-owned stores; CFO –₹105 Cr; 393 inventory days | Q3 FY27 (Diwali); other-income line |
 | Blue Water Logistics | BLUEWATER | ₹455 (26 Aug) | ~₹500 Cr | 14x | 8–10x | **BUY ON DIPS** | CFO –₹53 Cr; D/E 1.3; cyclical freight | H1 FY27 operating cash flow |
-| **CSL Finance** | CSLFINANCE (**NSE+BSE mainboard**) | ₹229.10 (4 Sep) | ~₹515 Cr | **P/B 0.84x** (PE 6.0x) | — | **RESEARCH / BUY-ON-DIPS** | Capital not deployed — net AUM +₹30 Cr in Q1. PAT growth collapsed 19.4%→**+4%**. 70% wholesale and rising | Disbursal-minus-collection spread; GNPA trend; **verify promoter/control question** |
+| **CSL Finance** | CSLFINANCE (**NSE+BSE mainboard**) | **₹253 (4 Sep)** | ~₹569 Cr | **P/B 0.93x** (PE 6.6x) | 0.81x FY27E book | **STARTER POSITION** | Capital not deployed — net AUM +₹30 Cr in Q1. PAT growth 19.4%→**+4%**. 70% wholesale and rising | Disbursal-minus-collection spread; GNPA trend; exact promoter % |
 | Glen Industries | GLEN | ₹121.5 (26 Aug) | ~₹283 Cr | 17x | 14–16x | **WATCH** | FY26 PAT **fell 10%**; OPM 23.7%→18.8%; plant delayed twice | H1 FY27; Q3 FY27 plant commissioning |
 
 ## Tier 2 — Good business, wrong price
@@ -291,3 +291,41 @@ worth; one source quoted BVPS as ₹208, which does not reconcile and may be sta
 
 **Watch, in order:** (1) disbursal-minus-collection spread (2) GNPA over two more quarters
 (3) wholesale:retail mix (4) resolve the control question
+
+### CSL Finance update — 04 Sep 2026: ₹253 (from ₹229.10, +10%)
+
+**CONTROL QUESTION RESOLVED — my earlier flag was wrong.** The Mundra Credit acquisition of
+42.65% was **July 2005**, the transaction that made them promoter 21 years ago — not a
+pending event. A search result carried it undated. **No pending change of control, no RBI
+overhang.** Withdrawn.
+
+**No news found explaining the +10% move.** Promoter open-market buys were 17–18 Aug.
+Reads as drift/re-rating.
+
+| | At ₹229.10 | **At ₹253** |
+|---|---|---|
+| Mcap | ~₹515 Cr | **~₹569 Cr** |
+| P/B (BVPS ~₹273) | 0.84x | **0.93x** |
+| Discount to book | 16% | **7%** |
+| PE | 6.0x | **6.6x** |
+
+**Book compounds — the key NBFC framing.** At 14.8% ROE with minimal payout, BVPS grows
+~13–14%/yr: today ~₹273, **FY27E ~₹310**. So ₹253 is 0.93x current book but **~0.81x
+forward book**. The floor rises underneath you.
+
+**Revised bands (anchored on P/B, not PE):**
+| Price | P/B | Call |
+|---|---|---|
+| <₹245 | <0.90x | 🟢 Good accumulation |
+| **₹245–275** | **0.90–1.00x** | 🟡 **Fair — ₹253 here. Starter position** |
+| ₹275–310 | 1.00–1.13x | 🟠 Needs deployment evidence first |
+| >₹330 | >1.20x | 🔴 Priced for a re-rating that has not happened |
+
+**Call: starter tranche, not full.** Business unchanged; you are paying 10% more for the
+same three open questions (deployment, +4% PAT growth, 70% wholesale). At 0.84x you were
+paid to wait for deployment; at 0.93x you are paying closer to fair value for it.
+Keep the rest for a dip below ₹245 or the first quarter where disbursals clearly outrun
+collections.
+
+**Still unresolved:** exact promoter holding — sources give ~48.2% in one place and ~29.93%
+in another. Sub-30% would be low for an NBFC. Check the current shareholding pattern.
