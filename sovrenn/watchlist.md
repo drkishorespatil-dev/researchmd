@@ -11,7 +11,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 
 | Company | Ticker | Reviewed @ | Mcap | TTM PE | Fwd PE | Verdict | The one issue | Next checkpoint |
 |---|---|---|---|---|---|---|---|---|
-| V-Marc India | VMARCIND | ₹346 (2 Sep) | ~₹5,070 Cr | 43x | 33–35x | **WATCH** — accumulate ₹290–305 | Q1 EBITDA 10.69% vs 11.5% guide | AGM 25 Sep (mainboard migration); Q2 FY27 margin |
+| V-Marc India | VMARCIND | **₹319 (4 Sep)** | ~₹4,673 Cr | **~40x** | **~31–33x** | **START POSITION** — 40% tranche here | Q1 EBITDA 10.69% vs 11.5% guide (still the only open question) | **18 Sep e-voting cutoff · 25 Sep AGM · ~Nov Q2 FY27** |
 | Enviro Infra Engineers | EIEL | ₹196 (2 Sep) | ~₹2,719 Cr | ~15x | — | **RESEARCH** — cheapest quality name | Q2 rev +6.7% but PAT +37%; municipal receivables | FY26 cash flow stmt + receivables ageing |
 | Sathlokhar Synergys | SSEGL | ₹398 (2 Sep) | ~₹1,040 Cr | 11x | 9–10x | **WATCH** → H1 FY27 | CFO **–₹163 Cr** vs PAT +₹82 Cr; ₹234 Cr unbilled revenue | H1 FY27 results (~Nov 2026) |
 | PNGS Reva Diamond | PNGSREVA | ₹515 (2 Sep) | ~₹1,633 Cr | 19x | 13–15x | **WATCH** — verify RPT first | 99.6% of revenue via promoter-owned stores; CFO –₹105 Cr; 393 inventory days | Q3 FY27 (Diwali); other-income line |
@@ -178,3 +178,22 @@ of now. A phenol-spread correction that knocks the stock 25–30% while the Stad
 arriving in containers is the setup to wait for.
 
 **Track:** Stade re-erection milestones | debt drawdown as capex ramps | phenol-benzene spreads
+
+### V-Marc price update — 04 Sep 2026: ₹319 (from ₹346 on 2 Sep, -8%)
+
+**No adverse news found.** AGM still scheduled 25 Sep; no filing, nothing cancelled. Reads as drift.
+
+Mcap ~₹4,673 Cr | FY26 PE ~47x | TTM ~40x | FY27E ~31–33x | FY28E ~23x
+₹319 sits at the bottom edge of the "fair / starter only" band (₹310–350) and 3% above the
+top of the stated accumulation zone (₹280–310). ~16% off the ₹381 high.
+
+**Revised call: START the position.** Staged plan —
+- ~40% now at ₹319
+- ~35% at ₹295–305 if drift continues
+- ~25% after Q2 FY27 — size up if EBITDA margin ≥11.5%, **do not deploy if it misses**
+
+**Key dates:** 18 Sep e-voting cutoff | **25 Sep AGM** (mainboard migration, ₹1,000 Cr
+borrowing limit, RPT resolutions — read the notice) | **~Nov Q2 FY27** (margin test)
+
+**Asymmetry:** once migration clears, funds currently rule-barred from an SME-platform stock
+can buy. ₹300 may not return. That is the case for starting now rather than waiting.
