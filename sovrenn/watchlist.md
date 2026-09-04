@@ -16,6 +16,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | Sathlokhar Synergys | SSEGL | ₹398 (2 Sep) | ~₹1,040 Cr | 11x | 9–10x | **WATCH** → H1 FY27 | CFO **–₹163 Cr** vs PAT +₹82 Cr; ₹234 Cr unbilled revenue | H1 FY27 results (~Nov 2026) |
 | PNGS Reva Diamond | PNGSREVA | ₹515 (2 Sep) | ~₹1,633 Cr | 19x | 13–15x | **WATCH** — verify RPT first | 99.6% of revenue via promoter-owned stores; CFO –₹105 Cr; 393 inventory days | Q3 FY27 (Diwali); other-income line |
 | Blue Water Logistics | BLUEWATER | ₹455 (26 Aug) | ~₹500 Cr | 14x | 8–10x | **BUY ON DIPS** | CFO –₹53 Cr; D/E 1.3; cyclical freight | H1 FY27 operating cash flow |
+| **CSL Finance** | CSLFINANCE (**NSE+BSE mainboard**) | ₹229.10 (4 Sep) | ~₹515 Cr | **P/B 0.84x** (PE 6.0x) | — | **RESEARCH / BUY-ON-DIPS** | Capital not deployed — net AUM +₹30 Cr in Q1. PAT growth collapsed 19.4%→**+4%**. 70% wholesale and rising | Disbursal-minus-collection spread; GNPA trend; **verify promoter/control question** |
 | Glen Industries | GLEN | ₹121.5 (26 Aug) | ~₹283 Cr | 17x | 14–16x | **WATCH** | FY26 PAT **fell 10%**; OPM 23.7%→18.8%; plant delayed twice | H1 FY27; Q3 FY27 plant commissioning |
 
 ## Tier 2 — Good business, wrong price
@@ -238,3 +239,55 @@ vs the company's own FY26 release of ₹72.31 Cr — a 2.2x gap. Results-release
 
 **Would reconsider only after:** two consecutive halves of real revenue growth AND a stated
 use for the unspent IPO money.
+
+### CSL Finance — NBFC evaluation (04 Sep 2026)
+
+**Sovrenn special category: FINANCIAL. PE rules do not apply — judge on P/B vs ROE,
+asset quality and capital adequacy.** Mainboard-listed (NSE + BSE), properly liquid —
+a meaningful advantage over almost everything else on this list.
+
+| @ ₹229.10 · 2,24,87,400 shares · mcap ~₹515 Cr | |
+|---|---|
+| FY26 total income | ₹257.02 Cr (+19.0%) |
+| FY26 NII | ₹168 Cr (+15%) |
+| FY26 PAT | ₹86.11 Cr (+19.4%, from ₹72.09 Cr) |
+| Loan book | ₹1,373.94 Cr (+20%) |
+| Net worth | ₹614.73 Cr → BVPS ~₹273 |
+| **P/B** | **0.84x — 16% BELOW book** |
+| ROE | 14.81% (from 13.31%) |
+| **CAR** | **~44%** (regulatory min 15%) |
+| **Leverage** | **2.45x** (typical NBFC 4–6x) |
+
+**Q1 FY27:** AUM ₹1,510 Cr (+15%) | PAT ₹22.1 Cr (**+4% only**) | NII ₹45.0 Cr (+12%)
+Disbursals ₹320 Cr vs collections ₹290 Cr = **net AUM growth just ₹30 Cr**
+GNPA 0.95% (−15bps QoQ, **+39bps YoY**) | NNPA 0.60% (−21bps QoQ, **+18bps YoY**)
+Mix **70:30 wholesale:SME retail** (from 69:31 — moving MORE wholesale)
+
+**Why it's cheap (four real reasons)**
+1. **Capital not being deployed.** 44% CAR, 2.45x leverage, but net AUM +₹30 Cr in a quarter.
+   A lazy balance sheet earns a low multiple — that is most of the 0.84x.
+2. **PAT growth collapsed** from +19.4% (FY26) to **+4%** (Q1 FY27) while NII grew 12%.
+3. **Asset quality direction wrong.** GNPA 0.46% (Q4 FY25) → 1.1% (Q4 FY26) = **2.4x YoY**.
+   Improved QoQ in Q1, but still +39bps YoY. Level fine, trend needs watching.
+4. **70% wholesale and rising.** Developer/construction finance is chunky — one large
+   account moves GNPA materially on a ₹1,510 Cr book.
+
+**The thesis in one question: will they deploy the capital?** Levering from 2.45x toward
+3.5–4x at constant ROE roughly doubles earnings AND re-rates P/B from 0.84x toward 1.2x+.
+Two independent sources of return. If AUM keeps growing ₹30 Cr/quarter, 0.84x is fair.
+
+**✅ Positives:** fortress balance sheet, no dilution risk, NNPA 0.60%, ROE improving,
+promoters bought 35,200 shares on the open market, mainboard liquidity.
+
+**❓ MUST VERIFY BEFORE BUYING:** conflicting reports of a **change of control** — Mundra
+Credit and Investment Pvt Ltd reportedly acquired **42.65%** and became promoter, alongside
+figures of promoter holding 48.2% and promoter group 29.78%. Could not reconcile. A control
+change at an NBFC needs RBI approval. Check current shareholding + any open-offer filings.
+Also: one analyst note flagged **"tax anomalies"** in Q4 FY26 — read the tax line.
+
+⚠️ **Data caveat:** mcap and BVPS are calculated from the share count and ₹614.73 Cr net
+worth; one source quoted BVPS as ₹208, which does not reconcile and may be stale.
+**The entire P/B case rests on this — verify against the FY26 balance sheet.**
+
+**Watch, in order:** (1) disbursal-minus-collection spread (2) GNPA over two more quarters
+(3) wholesale:retail mix (4) resolve the control question
