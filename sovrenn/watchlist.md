@@ -40,7 +40,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | Indo Tech Transformers | INDOTECH | ₹2,420 (May) | **UPGRADED 03 Sep** | ₹165.55 Cr AP TRANSCO order = 20.9% of revenue, exec Oct 26–Jun 27, **state utility counterparty**. ~27x. Aug "non-event" call superseded |
 | Neetu Yoshi | NEETUYOSHI | ~₹157–173 | Soft | Warrants at ₹104 priced back in Apr-26; only 25% upfront |
 | Avience Biomedicals | AVIENCE | ₹246 | **Too early** | Listed Jun-26, no post-IPO results, –40% from high |
-| **Patil Automation** | PATILAUTOM | ₹275.05 (2 Sep) | ~₹457 Cr | ~24x | **RESEARCH** | ₹96.38 Cr preferential = **21% of mcap** with Motilal Oswal + promoter. ~16% dilution. **Find out what the money is for** |
+| **Patil Automation** | PATILAUTOM (**NSE SME**) | **₹321 (10 Sep)** | ~₹533 Cr | **~28x** (~26x fwd post-dilution) | **WAIT — signal real, entry poor** | +17% in 8 days = **30% above the ₹246 preferential price**. Dilution **~23.6%** (corrected from 16%). SME liquidity. **Use of proceeds still unknown** |
 | Power Mech Projects | POWERMECH | ₹2,504 (26 Aug) | ~₹7,929 Cr | ~19x | **WORTH A LOOK** | ₹970 Cr O&M = annuity revenue. Q1 FY27 rev +26%. Non-SME, sensibly valued |
 | Apar Industries | APARINDS | — | ~₹73,000 Cr | ~62x | Note, don't act | CARE AA upgrade real; stock +122% in a year |
 | Prizor Viztech | PRIZOR | ₹1,200.40 (5 Sep) | ~₹1,296 Cr | ~62x | ⚠️ Priced | FY26 rev +108%, PAT +105% — but **+280% in 1Y**. Extreme-valuation-after-surge flag |
@@ -379,3 +379,38 @@ not great) — capital allocation is the open question
 unverified) or V-Marc (SME until migration, similar multiple, open margin question).
 Proposed restructure offered to user: CSL ₹2.4L / **Marksans ₹2.4L** / V-Marc ₹2L /
 Deepak ₹1.2L, reserve unchanged. Trades some upside for a sturdier core. Awaiting user.
+
+### Patil Automation update — 10 Sep 2026: ₹321 (from ₹275.05, +17% in 8 days)
+
+| | 2 Sep | Now |
+|---|---|---|
+| Price | ₹275.05 | **₹321** |
+| Mcap | ~₹457 Cr | **~₹533 Cr** |
+| PE (FY26 PAT ₹19.07 Cr) | ~24x | **~28x** |
+| **Premium to ₹246 pref price** | +12% | **+30%** |
+
+Run is almost certainly the market reacting to the Motilal Oswal preferential news itself.
+
+**CORRECTIONS to the 10 Sep entry:**
+1. **Dilution is ~23.6%, not ~16%.** Derived share count ~1.66 Cr pre-issue (₹457 Cr ÷ ₹275.05);
+   new shares 20.94L equity + 18.24L warrants = 39.18L → ~2.05 Cr post-conversion.
+   ⚠️ Share count is derived from two differently-dated sources — **verify**; all figures scale off it.
+2. **Patil Automation is NSE SME-listed** (IPO June 2025). Omitted yesterday. Adds liquidity and
+   lot-size constraints on top of the multiple.
+
+**Forward maths:** FY27 PAT at +35% ≈ ₹25.7 Cr → post-dilution EPS ~₹12.5 → **~26x forward at ₹321.**
+
+**REVISED CALL: WAIT.** Signal unchanged (Motilal Oswal + promoter in the same round is genuine
+validation; FY26 revenue +28%, PAT +35%). But entry is now 28x trailing / ~26x forward, at a 30%
+premium to the smart money, on an SME platform, with ~24% dilution still to land.
+
+**Wait for one of:**
+1. **Use-of-proceeds disclosure** — ₹96 Cr on ₹167 Cr revenue is either a capacity step-change or a
+   working-capital plug. This answer, not the price, should decide it
+2. **Pullback to ₹270–285** — near where the round was struck; a defensible reference price
+3. **Warrant conversion progress** — the ₹44.87 Cr tranche is optional. Conversion = commitment;
+   lapse = a signal
+
+**Pattern note:** buying a 17% spike on an SME the week a preferential is announced is the same
+setup that burned Prizor (+280%) and Srigee (5.7x range). Difference here: the fundamentals are
+real. But real fundamentals at a bad price still lose money.
