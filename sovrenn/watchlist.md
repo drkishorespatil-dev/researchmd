@@ -29,7 +29,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | HFCL | HFCL | ₹234 | ~₹38,000 Cr | >100x | Avoid at price | ₹2,329 Cr contract real but starts CY2027 |
 | OBSC Perfection | OBSCP | ₹868 | ~₹2,238 Cr | ~71x | Avoid at price | Order book >₹1,200 Cr but **back-ended to 2028–2032** |
 | Vintage Coffee | VINCOFE | ₹174.65 | ~₹2,553 Cr | ~35x | Watch | ₹550 Cr freeze-dried capex; earnings from Q2 FY28 |
-| Purple United Sales | PURPLEUTED | ₹411.2 | ~₹395 Cr | ~26x | Track | Need EBO vs shop-in-shop split of the "123 stores" |
+| **Purple United Sales** | PURPLEUTED | ₹411.2 | ~₹395 Cr | 26x trailing / **~16x fwd** | **UPGRADED 10 Sep — RESEARCH** | **H1 FY27 ₹100 Cr, +64%**, 125 stores. Store-expansion trigger converting into revenue. Still need EBO vs shop-in-shop split |
 
 ## Tier 3 — Caution / too early
 
@@ -40,6 +40,11 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | Indo Tech Transformers | INDOTECH | ₹2,420 (May) | **UPGRADED 03 Sep** | ₹165.55 Cr AP TRANSCO order = 20.9% of revenue, exec Oct 26–Jun 27, **state utility counterparty**. ~27x. Aug "non-event" call superseded |
 | Neetu Yoshi | NEETUYOSHI | ~₹157–173 | Soft | Warrants at ₹104 priced back in Apr-26; only 25% upfront |
 | Avience Biomedicals | AVIENCE | ₹246 | **Too early** | Listed Jun-26, no post-IPO results, –40% from high |
+| **Patil Automation** | PATILAUTOM | ₹275.05 (2 Sep) | ~₹457 Cr | ~24x | **RESEARCH** | ₹96.38 Cr preferential = **21% of mcap** with Motilal Oswal + promoter. ~16% dilution. **Find out what the money is for** |
+| Power Mech Projects | POWERMECH | ₹2,504 (26 Aug) | ~₹7,929 Cr | ~19x | **WORTH A LOOK** | ₹970 Cr O&M = annuity revenue. Q1 FY27 rev +26%. Non-SME, sensibly valued |
+| Apar Industries | APARINDS | — | ~₹73,000 Cr | ~62x | Note, don't act | CARE AA upgrade real; stock +122% in a year |
+| Prizor Viztech | PRIZOR | ₹1,200.40 (5 Sep) | ~₹1,296 Cr | ~62x | ⚠️ Priced | FY26 rev +108%, PAT +105% — but **+280% in 1Y**. Extreme-valuation-after-surge flag |
+| Adisoft Technologies | ADISOFT | ~₹245 | ~₹290 Cr | — | **Too early** | Listed 30 Apr 2026, no FY26 results until AGM 29 Sep. Retrieved data unreliable |
 | **Srigee DLM** | SRIGEE (BSE SME) | ₹83.10 (4 Sep) | ❌ **AVOID** | 52-wk range ₹56.75–₹323.30 (**5.7x**) on **FLAT revenue** (+1.5%). Promoter only **45.37%**, public float 53.43%. Below IPO price 16 months on. Zero growth triggers |
 
 ## Tier 1 additions — the 25-Aug names, now sized (03 Sep)

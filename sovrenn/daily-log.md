@@ -5,6 +5,17 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 10 Sep 2026
+
+| # | Company | News sized | Verdict |
+|---|---|---|---|
+| 4 | **Patil Automation** | ₹96.38 Cr preferential = **~21% of ₹457 Cr mcap**. Allottees: **Motilal Oswal Financial Services, Calliope Capital Advisors, promoter Manoj Patil**. 20.94L equity (₹51.51 Cr) + 18.24L warrants (₹44.87 Cr) @ ₹246 vs ₹275 market (SEBI VWAP floor, ~11% below — not a premium). **~16% dilution**. FY26 rev ₹166.57 Cr (+28%), PAT ₹19.07 Cr (+35%), ~24x | 🔥 **Biggest signal.** Promoter + institution in the same round = Sovrenn "Cash Raising" + HNI confirmation together. **RESEARCH: what is the ₹96 Cr for?** |
+| 3 | **Purple United** | **H1 FY27 ₹100 Cr vs ₹61 Cr = +64%.** 125 stores (from 123). FY26 was ₹171 Cr with H1 ₹61 Cr → H2-weighted; same seasonality implies **FY27 ~₹280 Cr**. ~26x trailing → **~16x forward** | ✅ **UPGRADE.** 2 Sep call was "track the store adds" — they have now converted into revenue. Cleanest store-expansion trigger on the list |
+| 2 | Apar Industries | CARE **AA- → AA**, A1+ reaffirmed, ₹12,960 Cr facilities, post ₹2,500 Cr QIP @ ₹14,805. FY26 rev ₹22,902 Cr (+23.3%), PAT ₹1,182 Cr, order book ₹7,671 Cr, conductor inflows +24.2% | ✅ Genuine full-notch upgrade — but **~62x**, stock +122% in a year |
+| 1 | Power Mech | ₹970 Cr over **60 months** = ~₹194 Cr/yr = **3.2%** of ₹6,107 Cr FY26 revenue. BUT **O&M = annuity**: recurring, capital-light, better margin quality than EPC. ~19x, Q1 FY27 rev +26% | ✅ Small annually, good revenue quality. **Sensibly valued — worth a look** |
+| 5 | Prizor Viztech | BIS-ER 01 for 10 camera models — **mandatory** cert, removes a barrier, doesn't create demand. Unquantified. FY26 rev ₹147.94 Cr (+108%), PAT ₹20.76 Cr (+105%) — but **+211% in 6M, +280% in 1Y at ~62x** | ⚠️ 🚨 Sovrenn proactive flag: **extreme valuation after rapid price surge** |
+| 6 | Adisoft Technologies | ₹2.5 Cr bulk deal = **0.86% of mcap**. "Annu Shanker" not a recognised marquee name. **Listed 30 Apr 2026** — 4 months, FY26 results pending AGM 29 Sep | ➖ Noise. Un-analysable (cf. Avience). ⚠️ Retrieved business description looked conflated with Patil Automation — **data unreliable** |
+
 ## 03 Sep 2026
 
 | # | Company | News sized | Verdict |
@@ -51,7 +62,8 @@ Verdicts feed into `watchlist.md`.
 
 ## Open items / to verify
 
-- **Purple United**: EBO vs shop-in-shop split of the "123 stores"
+- **Purple United**: EBO vs shop-in-shop split (now 125 stores). ₹100 Cr H1 / 125 stores ≈ ₹1.6 Cr per store per year — consistent with a mix. **Formats have very different economics — get this before sizing**
+- **Patil Automation**: what is the ₹96.38 Cr preferential actually FOR? Capacity, acquisition, or working capital? Determines growth trigger vs funding gap
 - **Enviro Infra**: FY26 cash flow statement + receivables ageing (municipal counterparties)
 - **PNGS Reva**: other-income line (₹285 Cr IPO cash may be carrying the 23% PAT margin); FY26 RPT note
 - **Sathlokhar**: did the ₹234 Cr unbilled revenue convert? (H1 FY27, ~Nov 2026)
