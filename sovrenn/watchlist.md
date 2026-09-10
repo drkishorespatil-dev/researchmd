@@ -17,6 +17,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | PNGS Reva Diamond | PNGSREVA | ₹515 (2 Sep) | ~₹1,633 Cr | 19x | 13–15x | **WATCH** — verify RPT first | 99.6% of revenue via promoter-owned stores; CFO –₹105 Cr; 393 inventory days | Q3 FY27 (Diwali); other-income line |
 | Blue Water Logistics | BLUEWATER | ₹455 (26 Aug) | ~₹500 Cr | 14x | 8–10x | **BUY ON DIPS** | CFO –₹53 Cr; D/E 1.3; cyclical freight | H1 FY27 operating cash flow |
 | **CSL Finance** | CSLFINANCE (**NSE+BSE mainboard**) | **₹253 (4 Sep)** | ~₹569 Cr | **P/B 0.93x** (PE 6.6x) | 0.81x FY27E book | **STARTER POSITION** | Capital not deployed — net AUM +₹30 Cr in Q1. PAT growth 19.4%→**+4%**. 70% wholesale and rising | Disbursal-minus-collection spread; GNPA trend; exact promoter % |
+| **HDFC Bank** | HDFCBANK (**large cap, most liquid**) | ₹693 (10 Sep) | ~₹10.6 lakh Cr | 14.2x reported / **15.7x CORE** | vs own band 18–25x | **ACCUMULATE — portfolio ballast** | Q1 FY27 PAT only **+5%** — growth not back yet. Reported PE flattered by HDB one-off | NIM trajectory; CD ratio to 85–90% by FY27; loan growth vs system |
 | **Marksans Pharma** | MARKSANS (**mainboard**) | ₹326 (4 Sep) | ~₹14,774 Cr | 28.5x TTM | **~29x FY27E** | **BUY / ACCUMULATE** | Q1 margin 25.3% is a PEAK — mgmt guides FY27 to 20–21%. Do not annualise Q1 | Margin normalisation; organic vs inorganic mix |
 | Glen Industries | GLEN | ₹121.5 (26 Aug) | ~₹283 Cr | 17x | 14–16x | **WATCH** | FY26 PAT **fell 10%**; OPM 23.7%→18.8%; plant delayed twice | H1 FY27; Q3 FY27 plant commissioning |
 
@@ -414,3 +415,53 @@ premium to the smart money, on an SME platform, with ~24% dilution still to land
 **Pattern note:** buying a 17% spike on an SME the week a preferential is announced is the same
 setup that burned Prizor (+280%) and Srigee (5.7x range). Difference here: the fundamentals are
 real. But real fundamentals at a bad price still lose money.
+
+### HDFC Bank — evaluation (10 Sep 2026) @ ₹693
+
+**Sovrenn special category: FINANCIAL. PE is not the primary lens** — P/B, ROA, NIM and
+asset quality are. ⚠️ Current BVPS could not be verified; **look up P/B before acting.**
+
+**Corporate action first:** 1:1 bonus, **ex-date 26 Aug 2025**, 7,67,70,39,761 shares allotted
+→ ~**1,535 Cr shares** (₹1 FV). Price went ~₹2,000 → ~₹1,000 mechanically that day.
+**₹693 is a real ~30% decline from the post-bonus level, not a split artifact.**
+Mcap at ₹693 ≈ **₹10.6 lakh Cr**.
+
+**🚨 THE PE IS LESS CHEAP THAN IT LOOKS**
+FY26 standalone PAT ₹74,670 Cr (+10.9%) **includes a one-off**: Q1 FY26 sale of 13.51 Cr HDB
+Financial Services shares @ ₹740 in a ₹10,000 Cr OFS → **pre-tax gain ~₹9,130–9,179 Cr**
+(~₹6,850 Cr post-tax).
+
+| | |
+|---|---|
+| Reported FY26 PAT | ₹74,670 Cr → PE ~14.2x |
+| **Core FY26 PAT** | **~₹67,800 Cr → core PE ~15.7x** |
+| Own historical band | 18–25x |
+
+Sovrenn "**Looks Good but Bad**" — profit lifted by a non-core item. Screeners showing 14x are
+showing a number that will not repeat.
+
+**WHY IT DE-RATED (the real answer):** the July 2023 HDFC Ltd merger loaded the bank with a
+large low-yielding mortgage book **and ₹7.31 lakh Cr of expensive borrowings**. NIM fell from
+4%+ to 3.27–3.38%, and an elevated credit-deposit ratio forced management to **deliberately
+slow loan growth** for years to rebuild deposits. Slower growth + thinner margins = 22x → 15x.
+**The market is not missing something; it repriced a lower-growth version of the same franchise.**
+
+**✅ BUT THE REPAIR IS MEASURABLY WORKING**
+- Borrowings **₹7.31 lakh Cr (FY24) → ₹5.88 lakh Cr (FY26)**, replaced by cheaper deposits
+- **NIM climbing: 3.27% (Q2) → 3.35% (Q3) → 3.38% (Q4 FY26)**
+- **Deposits +14.4%** to ₹31.05 lakh Cr vs **advances +12.1%** to ₹29.37 lakh Cr — this is what
+  fixes the CD ratio
+- CD ratio guided back to pre-merger **85–90% by FY27**
+- **Asset quality pristine: GNPA 1.15%** (ex-agri 0.91%), **NNPA 0.38%** (from 0.43%)
+
+**⚠️ The catch: Q1 FY27 PAT only +5%** (₹19,060 Cr). No earnings surge yet to drive a re-rating.
+
+**VERDICT: ACCUMULATE — as portfolio ballast, not as a multibagger.**
+
+**PORTFOLIO IMPLICATION (important):** the ₹12L plan is currently 100% small/micro cap. Every
+recurring problem in this workspace has been the same shape — negative CFO, SME illiquidity,
+unverified promoters, funding gaps. HDFC Bank has **none** of them: no liquidity risk, no
+promoter risk, no cash flow question, pristine asset quality, below its own historical band,
+with a mechanical margin-repair story underneath.
+**Proposed to user: HDFC Bank as a ₹3–4 lakh core with the SME ideas sized around it.**
+That single change does more for risk-adjusted outcome than any individual pick here.
