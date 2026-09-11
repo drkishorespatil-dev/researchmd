@@ -41,6 +41,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | Indo Tech Transformers | INDOTECH | ₹2,420 (May) | **UPGRADED 03 Sep** | ₹165.55 Cr AP TRANSCO order = 20.9% of revenue, exec Oct 26–Jun 27, **state utility counterparty**. ~27x. Aug "non-event" call superseded |
 | Neetu Yoshi | NEETUYOSHI | ~₹157–173 | Soft | Warrants at ₹104 priced back in Apr-26; only 25% upfront |
 | Avience Biomedicals | AVIENCE | ₹246 | **Too early** | Listed Jun-26, no post-IPO results, –40% from high |
+| **Augmont Enterprises** | AUGMONT (**mainboard**) | ~₹890 (7 Sep) | ~₹8,237 Cr, **~23.7x** | **TOO EARLY / WATCH** | **Listed 31 Aug 2026 — 11 days.** FY26 net margin **0.37%** (bullion pass-through). **CFO –₹42.16 Cr despite ₹348 Cr PAT.** Peak gold-cycle earnings. Debt-free (D/E 0.01x) ✅ |
 | **Patil Automation** | PATILAUTOM (**NSE SME**) | **₹321 (10 Sep)** | ~₹533 Cr | **~28x** (~26x fwd post-dilution) | **WAIT — signal real, entry poor** | +17% in 8 days = **30% above the ₹246 preferential price**. Dilution **~23.6%** (corrected from 16%). SME liquidity. **Use of proceeds still unknown** |
 | Power Mech Projects | POWERMECH | ₹2,504 (26 Aug) | ~₹7,929 Cr | ~19x | **WORTH A LOOK** | ₹970 Cr O&M = annuity revenue. Q1 FY27 rev +26%. Non-SME, sensibly valued |
 | Apar Industries | APARINDS | — | ~₹73,000 Cr | ~62x | Note, don't act | CARE AA upgrade real; stock +122% in a year |
@@ -465,3 +466,50 @@ promoter risk, no cash flow question, pristine asset quality, below its own hist
 with a mechanical margin-repair story underneath.
 **Proposed to user: HDFC Bank as a ₹3–4 lakh core with the SME ideas sized around it.**
 That single change does more for risk-adjusted outcome than any individual pick here.
+
+### Augmont Enterprises — evaluation (11 Sep 2026) @ ~₹890
+
+**Listed 31 Aug 2026 — only 11 days.** Mainboard NSE+BSE. IPO ₹788, **subscribed 105.64x**.
+Spiked to ₹1,019.80, fell to ₹851, now ~₹890 = **-17% from listing high in two weeks.**
+The entire "52-week range" is 11 days of trading. Mcap ~₹8,237 Cr → **~23.7x FY26** (21x at IPO).
+
+| Year | Revenue | PAT |
+|---|---|---|
+| FY24 | ₹3,492.15 Cr | ₹75.97 Cr |
+| FY25 | ₹6,623.08 Cr | ₹227.19 Cr |
+| **FY26** | **₹9,418.62 Cr (+42%)** | **₹348.30 Cr (+53%)** |
+
+**🔑 THE NUMBER THAT REFRAMES EVERYTHING: FY26 net margin 0.37%.**
+Revenue is largely **bullion pass-through** — the metal's market value flows through the P&L.
+₹9,419 Cr of "revenue" is not a measure of business size; this is a **₹348 Cr profit company**,
+and part of the "42% revenue growth" just means gold got more expensive.
+At 0.37% margin, profit is **hyper-sensitive to spreads** — an adverse move doesn't dent
+earnings, it can erase them. PAT went 4.6x in 2 years during a historic gold bull run.
+**Sovrenn cyclical rule applies in full: they look cheapest at the top.**
+
+**🚨 CASH FLOW — the recurring pattern on this list**
+- **CFO –₹42.16 Cr in FY26 despite +₹348.30 Cr PAT** (rising receivables, fall in other current
+  financial liabilities, higher taxes)
+- **₹465 Cr of the fresh issue is earmarked for working capital** → the raise is a requirement,
+  not an accelerant
+- Company states it **does not use debt financing for working capital** by policy; own risk
+  section warns continued negative CFO could strain liquidity
+
+**✅ Genuinely good:** borrowings only ₹12.67–19.66 Cr, **D/E 0.01x — effectively debt-free.**
+Unusual and valuable for a working-capital-heavy metals business. Mainboard, liquid.
+
+**🚀 THE REAL THESIS (not the trading):** 49.62 mn registered digital gold consumers,
+5,223 enterprise members, 24 states, plus **technology solutions for gold-backed lending**.
+Digital gold and gold-loan tech are higher-margin, more defensible than bullion trading.
+**If that mix grows, blended margin rises off the 0.37% floor and the company re-rates.**
+
+**VERDICT: TOO EARLY / WATCH** — same standard applied to Avience and Adisoft, though Augmont
+is far more substantial. Two things decide it and neither is knowable today:
+1. **Does CFO turn positive** now that ₹465 Cr funds working capital? A second negative year on
+   a 0.37% margin would be serious.
+2. **Can the digital-gold / gold-loan-tech mix lift blended margin** off the trading floor?
+**H1 FY27 (~Nov 2026) answers both. Ten weeks, costs nothing to wait.**
+
+**PORTFOLIO NOTE:** the ₹12L thinking already brushes gold via Shanti Gold and PNGS Reva.
+Adding a bullion trader concentrates into one commodity cycle — and a 0.37%-margin trader at
+cycle-peak earnings is the highest-beta way to express a gold view.
