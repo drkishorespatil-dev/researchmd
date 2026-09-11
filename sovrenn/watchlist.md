@@ -41,7 +41,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | Indo Tech Transformers | INDOTECH | ₹2,420 (May) | **UPGRADED 03 Sep** | ₹165.55 Cr AP TRANSCO order = 20.9% of revenue, exec Oct 26–Jun 27, **state utility counterparty**. ~27x. Aug "non-event" call superseded |
 | Neetu Yoshi | NEETUYOSHI | ~₹157–173 | Soft | Warrants at ₹104 priced back in Apr-26; only 25% upfront |
 | Avience Biomedicals | AVIENCE | ₹246 | **Too early** | Listed Jun-26, no post-IPO results, –40% from high |
-| **Augmont Enterprises** | AUGMONT (**mainboard**) | ~₹890 (7 Sep) | ~₹8,237 Cr, **~23.7x** | **TOO EARLY / WATCH** | **Listed 31 Aug 2026 — 11 days.** FY26 net margin **0.37%** (bullion pass-through). **CFO –₹42.16 Cr despite ₹348 Cr PAT.** Peak gold-cycle earnings. Debt-free (D/E 0.01x) ✅ |
+| **Augmont Enterprises** | AUGMONT (**mainboard**) | **₹887 (11 Sep, user-confirmed)** | ~₹8,205 Cr, **~23.6x** | **TOO EARLY / WATCH** | **Listed 31 Aug 2026 — 11 days.** FY26 net margin **0.37%** (bullion pass-through). **CFO –₹42.16 Cr despite ₹348 Cr PAT.** Peak gold-cycle earnings. Debt-free (D/E 0.01x) ✅ |
 | **Patil Automation** | PATILAUTOM (**NSE SME**) | **₹321 (10 Sep)** | ~₹533 Cr | **~28x** (~26x fwd post-dilution) | **WAIT — signal real, entry poor** | +17% in 8 days = **30% above the ₹246 preferential price**. Dilution **~23.6%** (corrected from 16%). SME liquidity. **Use of proceeds still unknown** |
 | Power Mech Projects | POWERMECH | ₹2,504 (26 Aug) | ~₹7,929 Cr | ~19x | **WORTH A LOOK** | ₹970 Cr O&M = annuity revenue. Q1 FY27 rev +26%. Non-SME, sensibly valued |
 | Apar Industries | APARINDS | — | ~₹73,000 Cr | ~62x | Note, don't act | CARE AA upgrade real; stock +122% in a year |
@@ -509,6 +509,12 @@ is far more substantial. Two things decide it and neither is knowable today:
    a 0.37% margin would be serious.
 2. **Can the digital-gold / gold-loan-tech mix lift blended margin** off the trading floor?
 **H1 FY27 (~Nov 2026) answers both. Ten weeks, costs nothing to wait.**
+
+**Price stamp 11 Sep: ₹887** (mcap ~₹8,205 Cr, ~23.6x). vs IPO ₹788 = +12.6%; vs listing high
+₹1,019.80 = **-13%**; vs post-listing low ₹851 = +4%. Drifting near the low rather than
+recovering — IPO froth (105.64x subscription) unwinding, no fundamental signal either way.
+**Verdict unchanged. Price is not the variable here** — a 0.37%-margin bullion business at
+cycle-peak gold earnings is not made safe by a 13% pullback.
 
 **PORTFOLIO NOTE:** the ₹12L thinking already brushes gold via Shanti Gold and PNGS Reva.
 Adding a bullion trader concentrates into one commodity cycle — and a 0.37%-margin trader at
