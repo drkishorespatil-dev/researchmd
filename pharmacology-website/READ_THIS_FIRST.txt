@@ -1,0 +1,78 @@
+DEPARTMENT OF PHARMACOLOGY - WEBSITE
+Government Medical College & Hospital, Chhatrapati Sambhajinagar
+================================================================
+
+HOW TO OPEN THE WEBSITE
+-----------------------
+1. Right-click  Pharmacology-Website.zip  ->  "Extract All..."  ->  Extract
+2. Open the folder that gets created
+3. Double-click  index.html
+
+IMPORTANT: Do NOT open index.html directly from inside the ZIP.
+Windows copies out only that one file and leaves behind the stylesheet,
+the script and the photographs - the page then looks like plain text
+with broken images.
+
+Keep these together in ONE folder at all times:
+
+    index.html     index.css     index.js     assets\     backend\
+
+An internet connection is needed for the icons, fonts and the map.
+
+
+OPTIONAL - SAVING ADR REPORTS
+-----------------------------
+Reports submitted in the Patient Corner are only stored when the site is
+run through the bundled server. This needs Node.js (https://nodejs.org).
+
+    Open a command window in this folder and run:
+        node backend/server.js
+
+    Then visit    http://localhost:8080
+    Admin view    http://localhost:8080/admin?key=gmch-pharma-admin
+
+Change that admin key before the website goes public.
+
+
+ADDING A NOTICE TO THE NOTICE BOARD
+-----------------------------------
+Edit  assets\notices.json  - no other file needs changing.
+Each notice looks like this:
+
+    {
+      "date": "2026-08-15",
+      "tag": "Examination",
+      "title": "Second MBBS internal assessment schedule",
+      "body": "Timetable displayed on the departmental notice board.",
+      "link": "assets/documents/ia-schedule.pdf",
+      "linkText": "Download timetable (PDF)"
+    }
+
+The "link" and "linkText" lines are optional.
+
+PHOTOGRAPHS NEEDED FOR THE NEW HOME-PAGE SLIDESHOW
+--------------------------------------------------
+The home page now opens with a slideshow instead of a single photograph.
+Three of its slides use the medicine-distribution-counter photographs.
+Save them from your Downloads folder into  assets\gallery\  with EXACTLY
+these names (lower case, .jpg):
+
+    drug-store-inauguration-01.jpg   the wide group photograph
+                                     (everyone seated and standing)
+
+    drug-store-inauguration-02.jpg   the second, smaller group photograph
+
+    drug-store-inauguration-03.jpg   the decorated counter itself
+                                     (garlands and the ribbon, कक्ष ११० (ब))
+
+Until those three files exist, those slides appear blank - every other
+slide still works. The remaining slides reuse photographs you already
+have: assets\dept-group-photo.jpg, assets\awards\hod-award-01.jpeg and
+assets\gallery\pv-event-5.jpg.
+
+TO ADD OR REMOVE A SLIDE
+------------------------
+Open index.html and find  <div class="hero-carousel">  near the top.
+Copy one whole <figure class="hc-slide"> ... </figure> block, change the
+image path and the caption text. Nothing else needs editing - the dots,
+the arrows and the autoplay adjust themselves to the number of slides.
