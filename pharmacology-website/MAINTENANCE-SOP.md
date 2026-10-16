@@ -46,9 +46,14 @@ panel. Changing the website means changing a file on GitHub.
 | **GitHub** | Stores the website files | The department, not an individual |
 | **Vercel** | Publishes the website | The department, not an individual |
 
-Both accounts must be registered to a **departmental email address** that the
-department will keep permanently, not to the personal email of any one doctor
-or resident.
+Both accounts should ultimately be registered to a **departmental email
+address** that the department will keep permanently, not to the personal email
+of any one doctor or resident.
+
+> **Current position:** the website was built under a personal account while
+> departmental approval was pending, and is to be transferred to the department.
+> **Section 12 sets out how.** Until that transfer is complete, the department
+> does not control its own website. Treat it as an outstanding item.
 
 ### Critical — before any handover
 
@@ -264,7 +269,63 @@ the answer here:
 
 ---
 
-## 12. Responsibility
+## 12. Transferring the website to the department
+
+Do this once departmental approval is in place. It takes about twenty minutes
+and the website stays online throughout.
+
+### Before you start
+
+The department needs its own **GitHub account** and its own **Vercel account**,
+both registered to a departmental email address, with two-factor authentication
+switched on and the recovery codes printed (section 2).
+
+### Step 1 — Transfer the repository
+
+1. The outgoing owner opens the repository on github.com
+2. **Settings** → scroll to **Danger Zone** → **Transfer ownership**
+3. Enter the department's GitHub username and the repository name to confirm
+4. The department account receives an invitation and must **accept** it
+
+Everything moves: all files, the complete history of changes, and a redirect
+from the old address so existing links keep working.
+
+### Step 2 — Re-create the deployment
+
+The transfer does **not** carry the Vercel connection across. The department
+must publish the site from its own Vercel account:
+
+1. Sign in to **vercel.com** as the department
+2. **Add New → Project**, connect the department's GitHub, import the repository
+3. Framework Preset **Other**; leave build command and output directory empty
+4. **Deploy**
+
+### Step 3 — Retire the old deployment
+
+Once the department's copy is confirmed working, the outgoing owner deletes
+the old Vercel project. Two live copies of the same website will otherwise
+drift apart and confuse everyone, including search engines.
+
+### Step 4 — Update the published address
+
+**Unless a custom domain is in use, the web address changes at this point.**
+A `.vercel.app` address belongs to the account that created it. Any address
+printed on a letterhead, notice board, poster or QR code must be reissued.
+
+> **This is avoidable.** If a custom domain is configured *before* the transfer,
+> the public address never changes — the department simply repoints the same
+> domain at its own deployment, and every printed link and QR code keeps
+> working. If the site is to carry a permanent address, arrange the domain
+> **before** anything is printed.
+
+### Step 5 — Record the change
+
+Update section 2 and the responsibility table below, change the passwords, and
+confirm the department holds the recovery codes.
+
+---
+
+## 13. Responsibility
 
 | Role | Name | Contact |
 |---|---|---|
@@ -277,7 +338,7 @@ and change the account passwords the same week.
 
 ---
 
-## 13. If something cannot be fixed
+## 14. If something cannot be fixed
 
 Commit nothing further and do not delete files in an attempt to repair it.
 Use section 9 to restore the last working version first — that always succeeds —
