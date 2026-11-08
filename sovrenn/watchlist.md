@@ -582,3 +582,29 @@ the ₹398 seen on 2 Sep while earnings doubled. Needs about ₹450 Cr bank faci
 Price stamp 08 Nov 2026: Rajesh Power at ₹826 (user-confirmed), within the ₹750-900 accumulate band. Mcap about ₹1,490 Cr, TTM PE about 9.4x,
 forward about 7.5-8x. Verdict unchanged: starter position, half now and half on a dip toward ₹750 or better full-year cash conversion.
 Lot size and exchange tier still unverified.
+
+### ESDS Software Solution — evaluation (08 Nov 2026) @ ₹1,170 (user CMP)
+
+Nashik data centre and cloud company. Mainboard IPO ₹429 (₹720 Cr fresh issue), listed 4 Sep 2026 at ₹757.
+At ₹1,170: about 2.7x the IPO price in about nine weeks. Mcap about ₹13,700 Cr (derived from ₹13,596 Cr at ₹1,160 on 30 Oct).
+
+| | |
+|---|---|
+| Q2 FY27 revenue | ₹138.3 Cr (+48% YoY, +4% QoQ from ₹133 Cr) |
+| Q2 FY27 PAT | ₹31.1 Cr (+41%) |
+| EBITDA margin | 41.8%, down from 52% |
+| H1 FY27 | revenue +25%, PAT +26% |
+| Mix | IaaS 50.5%, managed services 31.2%, SaaS 18.3% |
+| Run-rate PAT | about ₹120-125 Cr a year |
+| PE on run-rate | **about 110x** |
+
+The story: a USD 1.25 bn AI cloud infrastructure agreement with an Australia-based neocloud. Counterparty unnamed by the
+company; one outlet names Sharon AI. That is roughly 20x annual revenue, but AI cloud is GPU capex heavy, terms and revenue
+timing are undisclosed, and the customer is a young firm. Cash flow, debt and capex plan not found.
+
+Sovrenn flags: extreme valuation after rapid price surge (live); one listed quarter only (too early, same standard as
+Augmont and Avience); margin falling while revenue grows; single-customer concentration on the big contract; funding
+requirement unknown. Sources also conflict (one reports standalone profit ₹231.91 Cr, clearly inconsistent).
+
+**VERDICT: AVOID at ₹1,170 / WATCH.** Good business, but the price already assumes the AI contract delivers at full margin.
+Revisit after the contract's funding plan and the H2 FY27 results; a fair zone needs the PE to fall well below 60x on proven earnings.
