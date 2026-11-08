@@ -17,6 +17,8 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | PNGS Reva Diamond | PNGSREVA | ₹515 (2 Sep) | ~₹1,633 Cr | 19x | 13–15x | **WATCH** — verify RPT first | 99.6% of revenue via promoter-owned stores; CFO –₹105 Cr; 393 inventory days | Q3 FY27 (Diwali); other-income line |
 | Blue Water Logistics | BLUEWATER | ₹455 (26 Aug) | ~₹500 Cr | 14x | 8–10x | **BUY ON DIPS** | CFO –₹53 Cr; D/E 1.3; cyclical freight | H1 FY27 operating cash flow |
 | **CSL Finance** | CSLFINANCE (**NSE+BSE mainboard**) | **₹253 (4 Sep)** | ~₹569 Cr | **P/B 0.93x** (PE 6.6x) | 0.81x FY27E book | **STARTER POSITION** | Capital not deployed — net AUM +₹30 Cr in Q1. PAT growth 19.4%→**+4%**. 70% wholesale and rising | Disbursal-minus-collection spread; GNPA trend; exact promoter % |
+| **Rajesh Power Services** | 544291 (BSE SME per IPO coverage; verify) | ~₹820 (5 Nov) | ~₹1,490 Cr | 9.4x TTM | ~7.5-8x FY27E | **PICK (08 Nov): BUY STARTER** | H1 CFO only +₹8.7 Cr on PAT ₹79 Cr; margin 13.2→12.0%; Gujarat discom concentration | Lot size; H2 execution of ₹1,629 Cr DGVCL order; CFO |
+| **Accent Microcell** | ACCENTMIC (NSE+BSE mainboard) | ~₹627-688 (Oct) | ~₹1,224 Cr | 21.5x TTM | ~18-20x FY27E | **RUNNER-UP: BUY ON DIPS** | Margin 25% vs 18% in FY26; Unit III and Phase 2 slipped; CFO sources conflict | Unit III commissioning; H2 margin |
 | **HDFC Bank** | HDFCBANK (**large cap, most liquid**) | ₹693 (10 Sep) | ~₹10.6 lakh Cr | 14.2x reported / **15.7x CORE** | vs own band 18–25x | **ACCUMULATE — portfolio ballast** | Q1 FY27 PAT only **+5%** — growth not back yet. Reported PE flattered by HDB one-off | NIM trajectory; CD ratio to 85–90% by FY27; loan growth vs system |
 | **Marksans Pharma** | MARKSANS (**mainboard**) | ₹326 (4 Sep) | ~₹14,774 Cr | 28.5x TTM | **~29x FY27E** | **BUY / ACCUMULATE** | Q1 margin 25.3% is a PEAK — mgmt guides FY27 to 20–21%. Do not annualise Q1 | Margin normalisation; organic vs inorganic mix |
 | Glen Industries | GLEN | ₹121.5 (26 Aug) | ~₹283 Cr | 17x | 14–16x | **WATCH** | FY26 PAT **fell 10%**; OPM 23.7%→18.8%; plant delayed twice | H1 FY27; Q3 FY27 plant commissioning |
@@ -519,3 +521,60 @@ cycle-peak gold earnings is not made safe by a 13% pullback.
 **PORTFOLIO NOTE:** the ₹12L thinking already brushes gold via Shanti Gold and PNGS Reva.
 Adding a bullion trader concentrates into one commodity cycle — and a 0.37%-margin trader at
 cycle-peak earnings is the highest-beta way to express a gold view.
+
+### Rajesh Power Services — deep-dive (08 Nov 2026), PICK from the Sep-26 Excellent Results screen
+
+Electrical EPC: underground cabling, transmission and distribution work, mainly for Gujarat discoms.
+IPO ₹335, listed Dec 2024 (BSE SME coverage; the exchange tier was not confirmed in the last search, so verify).
+Promoters 71.93%, no pledge.
+
+| | |
+|---|---|
+| FY26 revenue / PAT | ₹1,628 Cr (+52%) / ₹143.2 Cr; ROCE 43.65% per company presentation |
+| H1 FY27 revenue | ₹929 Cr (+46%); EBITDA ₹112 Cr, margin 12.02% from 13.16% |
+| H1 FY27 PAT | ₹79.2 Cr (+35%) |
+| Order book | about ₹3,650-4,000 Cr before, about ₹5,400 Cr after the DGVCL order = about 3.3x FY26 revenue |
+| New order | ₹1,628.74 Cr (incl. taxes) from DGVCL, underground cabling, about 24 months |
+| H1 operating cash flow | +₹8.69 Cr (versus -₹22.41 Cr a year earlier). Thin against PAT of ₹79 Cr |
+| Borrowings | about ₹151 Cr (₹60.6 Cr non-current, ₹90.9 Cr current); net worth ₹483.6 Cr; D/E about 0.31x (my calculation) |
+| Receivables | ₹324 Cr at 30 Sep, down from ₹349 Cr at FY26 end |
+| Valuation | mcap about ₹1,490 Cr; TTM PE 9.4x; FY27E PAT ₹185-200 Cr gives about 7.5-8x |
+
+Why it is the pick: cheap on current and forward PE, order book visible for about two years, customers are state discoms
+with a good payment record, receivables falling, CFO positive and improving, leverage modest.
+
+Cautions: operating cash conversion is only about 11% of PAT; margin is narrowing; one DGVCL order is about 100% of FY26 revenue
+over 24 months so working-capital and execution risk rise; stock is about 44% below a 52-week high of about ₹1,471 (one source),
+which means the market doubts cash conversion; BSE SME liquidity and lot size unverified.
+
+Entry bands (my estimates off ~1.78-1.82 Cr shares): below ₹750 strong; ₹750-900 accumulate in two tranches; ₹900-1,100 add only if H2
+cash flow improves; above ₹1,200 wait. Starter size only, inside the risk sleeve.
+
+### Accent Microcell — deep-dive (08 Nov 2026), RUNNER-UP
+
+Cellulose-based pharma excipients (MCC), exports about 72% of H1 revenue. NSE and BSE mainboard, IPO Dec 2023.
+H1 FY27: revenue ₹174.8 Cr (+25-26%), PAT ₹31.1 Cr (+72%), EBITDA margin 25.1% from 19.0% (EBITDA ₹41.3 Cr in the company
+presentation, ₹43.9 Cr in one aggregator). Company credits premium-mix share rising 10.5% to 13.5%. Zero debt.
+FY26: PAT ₹43.9 Cr (+33%), EBITDA margin 18.2%, exports 63%.
+Capacity: Phase 1 (2,800 MTPA) under commissioning; Phase 2 MCC plant 12,000 MTPA, ₹55-60 Cr, targeted H1 FY28; earlier timelines slipped;
+specialty plant awaiting consent. Price ₹627-688 in Oct (mcap ₹1,224 Cr, 21.5x TTM); 52-week range ₹280-732.
+Cash flow: one source shows H1 CFO ₹78 Cr (above EBITDA, so likely a working-capital release); another says cash is thin after capex;
+FY26 free cash flow was negative. Unresolved.
+Verdict: quality, debt-free, mainboard, but margin step-up is large and capacity has slipped. BUY ON DIPS.
+
+### Sathlokhar Synergys — checkpoint result (08 Nov 2026)
+
+Set on 2 Sep: order book above ₹1,000 Cr (MET, ₹1,139-1,239 Cr); operating cash flow turns positive (NOT MET, H1 -₹102 Cr against PBT ₹68 Cr);
+unbilled revenue shrinks (not disclosed). H1 revenue ₹502 Cr (+85%), PAT ₹51 Cr. TTM PE 7.4x, mcap ₹811 Cr, implying the stock fell from
+the ₹398 seen on 2 Sep while earnings doubled. Needs about ₹450 Cr bank facilities for FY27 guidance of about +70%. Still WATCH.
+
+### Other names deep-dived from the Sep-26 screen (not picks)
+
+- **Sugs Lloyd** (606 Cr, 16.4x): H1 revenue ₹213 Cr (+73%), PAT ₹20 Cr (+69%), order book ₹1,067 Cr, Bihar share 82% to 55%.
+  Q2 EBITDA margin 14.1% from 15.7% (material cost 65% of revenue). Coverage flags profit-versus-cash-flow divergence and rising debt.
+- **Chemkart India** (278 Cr, 8.7x): H1 revenue ₹205.9 Cr (+99%), PAT ₹22.6 Cr (+122%). Distribution business (amino acids 50%, sports nutrition 29%).
+  H1 CFO -₹18.7 Cr. Building a ₹34.7 Cr plant at JNPA SEZ.
+- **Kay Cee Energy & Infra** (115 Cr, 4.4x): H1 income about ₹134 Cr (+60%), PAT ₹16.9 Cr (+84%), EBITDA margin 20.2%,
+  unexecuted order book ₹377.6 Cr incl. GST. A 4.4x PE on that growth means the market distrusts something; receivables not disclosed.
+- **GP Eco Solutions** (514 Cr, 9.0x): FY26 revenue ₹417.7 Cr, PAT ₹40.1 Cr. Management guides about ₹1,200 Cr for FY27 against H1 revenue of ₹234 Cr,
+  so H2 must be about 4x H1. The 3x and 5x targets appear to have moved out a year versus late-2025 commentary. Guidance credibility risk.

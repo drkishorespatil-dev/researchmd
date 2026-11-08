@@ -5,6 +5,33 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 08 Nov 2026 — Sovrenn "Excellent Results (Sep-26)" screenshots (37 names)
+
+Full table: `excellent-results-sep26.md`. User asked for the best stock from the list using the Sovrenn framework.
+
+**PICK: Rajesh Power Services (~₹820, BSE SME per IPO coverage). RUNNER-UP: Accent Microcell. Sathlokhar stays WATCH.**
+
+Checkpoint result, Sathlokhar H1 FY27 (set on 2 Sep as the test of the thesis):
+- Order book above ₹1,000 Cr: MET. ₹1,139 Cr at 30 Sep, about ₹1,230-1,239 Cr at 1 Oct. H1 orders ₹624.73 Cr.
+- Operating cash flow turns positive: NOT MET. H1 CFO -₹102 Cr against PBT ₹68 Cr. Working capital absorbed ₹160 Cr. Financing inflow ₹136 Cr.
+- Unbilled revenue shrinks: NOT DISCLOSED in sources found.
+- H1 revenue ₹502 Cr (+85%), PAT ₹51 Cr (from ₹23 Cr), Q2 EBITDA margin 14.9%. FY27 guidance about +70% (₹1,400 Cr).
+- Needs about ₹450 Cr of bank facilities, no equity raise planned. TTM PE 7.4x, mcap ₹811 Cr.
+- Verdict unchanged: WATCH. The P&L is excellent, the cash flow has not turned, and funding is bank debt.
+
+Other watchlist names in the screenshots:
+- One Point One: Q2 sales ₹175 Cr (+146% YoY, +11% QoQ), OPM flat 24%, PAT ₹18 Cr (+80%). 36.8x, mcap ₹1,986 Cr (₹1,667 Cr on 21 Aug). Growth is largely acquired. Dilution flag stands.
+- GLEN: H1 revenue ₹114 Cr (+19%, slower than Q1), exports 26%. 14.6x, mcap ₹262 Cr. No profit figure on the card. Still WATCH.
+- Adisoft: H1 revenue ₹72 Cr (+47%), 16.7x, mcap ₹385 Cr. First real data point. Earlier "data unreliable" doubt was my inference and not supported: the retrieved description (Pune automation) is consistent. Still no PAT or cash flow seen.
+- PNGS Gargi (not PNGS Reva): Q2 revenue ₹54 Cr (+16%), H1 +14%, 17.8x, mcap ₹568 Cr versus about ₹1,098 Cr in July.
+
+Open items from this entry:
+- Rajesh Power: confirm listing venue and lot size; confirm H1 operating cash flow from the filing (+₹8.69 Cr in one secondary source).
+- Accent Microcell: reconcile H1 operating cash flow (₹78 Cr in one source, conflicting in another); Unit III and Phase 2 timelines.
+- GP Eco: guidance of about ₹1,200 Cr for FY27 against H1 revenue of ₹234 Cr.
+- Esconet: H1 profit ₹21 Cr does not fit the stated PE and mcap. Check other income.
+- Older tracker entries still carry September prices.
+
 ## 10 Sep 2026
 
 | # | Company | News sized | Verdict |
