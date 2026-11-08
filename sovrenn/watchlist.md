@@ -17,7 +17,7 @@ Educational analysis using the Sovrenn 8-session framework. Not investment advic
 | PNGS Reva Diamond | PNGSREVA | ₹515 (2 Sep) | ~₹1,633 Cr | 19x | 13–15x | **WATCH** — verify RPT first | 99.6% of revenue via promoter-owned stores; CFO –₹105 Cr; 393 inventory days | Q3 FY27 (Diwali); other-income line |
 | Blue Water Logistics | BLUEWATER | ₹455 (26 Aug) | ~₹500 Cr | 14x | 8–10x | **BUY ON DIPS** | CFO –₹53 Cr; D/E 1.3; cyclical freight | H1 FY27 operating cash flow |
 | **CSL Finance** | CSLFINANCE (**NSE+BSE mainboard**) | **₹253 (4 Sep)** | ~₹569 Cr | **P/B 0.93x** (PE 6.6x) | 0.81x FY27E book | **STARTER POSITION** | Capital not deployed — net AUM +₹30 Cr in Q1. PAT growth 19.4%→**+4%**. 70% wholesale and rising | Disbursal-minus-collection spread; GNPA trend; exact promoter % |
-| **Rajesh Power Services** | 544291 (BSE SME per IPO coverage; verify) | ~₹820 (5 Nov) | ~₹1,490 Cr | 9.4x TTM | ~7.5-8x FY27E | **PICK (08 Nov): BUY STARTER** | H1 CFO only +₹8.7 Cr on PAT ₹79 Cr; margin 13.2→12.0%; Gujarat discom concentration | Lot size; H2 execution of ₹1,629 Cr DGVCL order; CFO |
+| **Rajesh Power Services** | 544291 (BSE SME per IPO coverage; verify) | ₹826 (8 Nov, user-confirmed) | ~₹1,490 Cr | 9.4x TTM | ~7.5-8x FY27E | **PICK (08 Nov): BUY STARTER** | H1 CFO only +₹8.7 Cr on PAT ₹79 Cr; margin 13.2→12.0%; Gujarat discom concentration | Lot size; H2 execution of ₹1,629 Cr DGVCL order; CFO |
 | **Accent Microcell** | ACCENTMIC (NSE+BSE mainboard) | ~₹627-688 (Oct) | ~₹1,224 Cr | 21.5x TTM | ~18-20x FY27E | **RUNNER-UP: BUY ON DIPS** | Margin 25% vs 18% in FY26; Unit III and Phase 2 slipped; CFO sources conflict | Unit III commissioning; H2 margin |
 | **HDFC Bank** | HDFCBANK (**large cap, most liquid**) | ₹693 (10 Sep) | ~₹10.6 lakh Cr | 14.2x reported / **15.7x CORE** | vs own band 18–25x | **ACCUMULATE — portfolio ballast** | Q1 FY27 PAT only **+5%** — growth not back yet. Reported PE flattered by HDB one-off | NIM trajectory; CD ratio to 85–90% by FY27; loan growth vs system |
 | **Marksans Pharma** | MARKSANS (**mainboard**) | ₹326 (4 Sep) | ~₹14,774 Cr | 28.5x TTM | **~29x FY27E** | **BUY / ACCUMULATE** | Q1 margin 25.3% is a PEAK — mgmt guides FY27 to 20–21%. Do not annualise Q1 | Margin normalisation; organic vs inorganic mix |
@@ -578,3 +578,7 @@ the ₹398 seen on 2 Sep while earnings doubled. Needs about ₹450 Cr bank faci
   unexecuted order book ₹377.6 Cr incl. GST. A 4.4x PE on that growth means the market distrusts something; receivables not disclosed.
 - **GP Eco Solutions** (514 Cr, 9.0x): FY26 revenue ₹417.7 Cr, PAT ₹40.1 Cr. Management guides about ₹1,200 Cr for FY27 against H1 revenue of ₹234 Cr,
   so H2 must be about 4x H1. The 3x and 5x targets appear to have moved out a year versus late-2025 commentary. Guidance credibility risk.
+
+Price stamp 08 Nov 2026: Rajesh Power at ₹826 (user-confirmed), within the ₹750-900 accumulate band. Mcap about ₹1,490 Cr, TTM PE about 9.4x,
+forward about 7.5-8x. Verdict unchanged: starter position, half now and half on a dip toward ₹750 or better full-year cash conversion.
+Lot size and exchange tier still unverified.
