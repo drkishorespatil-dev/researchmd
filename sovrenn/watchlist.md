@@ -608,3 +608,11 @@ requirement unknown. Sources also conflict (one reports standalone profit ₹231
 
 **VERDICT: AVOID at ₹1,170 / WATCH.** Good business, but the price already assumes the AI contract delivers at full margin.
 Revisit after the contract's funding plan and the H2 FY27 results; a fair zone needs the PE to fall well below 60x on proven earnings.
+
+### Sathlokhar (SSEGL) price stamp — 08 Nov 2026: ₹358 (user CMP)
+
+Shares about 2.61 Cr (2.65 Cr diluted) → mcap about ₹935 Cr. TTM PAT about ₹110 Cr → **TTM PE about 8.5x**.
+FY27E PAT about ₹140 Cr if the ~70% revenue guidance holds → **forward PE about 6.7x**.
+vs ₹398 on 2 Sep (-10%); vs ₹482 preferential price of Sep 2025 (-26%); about 15% above the price implied by the Sovrenn screen.
+**Verdict unchanged: WATCH.** H1 CFO -₹102 Cr, needs about ₹450 Cr of new bank limits. Flip to BUY needs FY27 full-year CFO
+turning positive, or H2 collections visibly releasing working capital, with no equity raise.
