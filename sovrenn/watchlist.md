@@ -616,3 +616,26 @@ FY27E PAT about ₹140 Cr if the ~70% revenue guidance holds → **forward PE ab
 vs ₹398 on 2 Sep (-10%); vs ₹482 preferential price of Sep 2025 (-26%); about 15% above the price implied by the Sovrenn screen.
 **Verdict unchanged: WATCH.** H1 CFO -₹102 Cr, needs about ₹450 Cr of new bank limits. Flip to BUY needs FY27 full-year CFO
 turning positive, or H2 collections visibly releasing working capital, with no equity raise.
+
+### Mahindra Logistics (MAHLOG) — evaluation (09 Nov 2026) @ ₹439 (8 Nov close)
+
+Mainboard, Mahindra group. Mcap about ₹4,354 Cr (~9.9 Cr shares). 52-week range ₹275-451: **at a 52-week high**.
+Rights issue of about ₹749 Cr at ₹277 in 2025; ₹556 Cr used to repay debt (management: near debt-free, saves ₹40-45 Cr interest a year).
+
+| | |
+|---|---|
+| Q2 FY27 revenue | ₹2,095 Cr (+24% YoY, +5% QoQ) |
+| Q2 FY27 PAT to shareholders | ₹26.25 Cr vs loss ₹10.35 Cr a year ago |
+| EBITDA | ₹124 Cr (+46%), margin 5.9% (+90 bps) |
+| Contract logistics | ₹1,688 Cr (+28%) |
+| Express | ₹169 Cr (+69%), first EBITDA-positive quarter (₹2.3 Cr) |
+| Last mile | ₹68 Cr (-23%), deliberately shrunk |
+| ROCE H1 FY27 | 12.9% vs 1.7% |
+| FY26 (9M to Mar-26) | net loss ₹11.79 Cr |
+
+Valuation: trailing PE not meaningful (losses until recently). Q2 annualised PAT about ₹105 Cr → about 41x.
+FY28E PAT about ₹150 Cr if margin reaches about 6.5% → about 29x. Price/sales about 0.5x.
+
+Verdict: **WATCH — genuine turnaround, already priced.** Good governance, balance sheet repaired, Express losses ending.
+But margins are thin (6%), the stock is at its 52-week high, and you pay ~41x on one profitable quarter.
+Buy zone: below about ₹380 (about 25x FY28E). Confirm two more profitable quarters and Express staying EBITDA-positive.
