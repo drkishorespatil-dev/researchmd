@@ -639,3 +639,15 @@ FY28E PAT about ₹150 Cr if margin reaches about 6.5% → about 29x. Price/sale
 Verdict: **WATCH — genuine turnaround, already priced.** Good governance, balance sheet repaired, Express losses ending.
 But margins are thin (6%), the stock is at its 52-week high, and you pay ~41x on one profitable quarter.
 Buy zone: below about ₹380 (about 25x FY28E). Confirm two more profitable quarters and Express staying EBITDA-positive.
+
+### ABS Marine and Avience price stamps — 11 Nov 2026
+
+**ABS Marine @ ₹287** (user CMP): essentially unchanged from ₹286 in Sep. Mcap about ₹610 Cr; ~7.5x FY26 PAT of ₹80.8 Cr.
+H1 FY27 results NOT yet published (trading window closed until 48h after them; SME deadline ~14 Nov). New MPSV joined fleet in Q1 FY27
+(adds revenue) but interest cost is rising with the borrowings (half-year interest ₹13 Cr → ₹18 Cr across FY26).
+Verdict unchanged: CAUTION. Cheap, but cyclical-peak margins and debt. Wait days for H1: watch day-rates, margin vs 51% H2 FY26, interest.
+
+**Avience @ ₹262** (user CMP): up from ₹246 in Sep; about 26% above the ₹196-208 IPO band. Mcap roughly ₹130-200 Cr (sources conflict).
+H2 FY26: revenue ₹25.7 Cr (+4.9%), PAT ₹4.2 Cr (-2.3%), EBITDA margin 28.5%. That is near-flat growth, yet management guides
+**at least +60% revenue in FY27**, resting on a ₹47.46 Cr PSU order and a ₹30.18 Cr automated Noida plant due by Oct-26.
+H1 FY27 (first listed half) NOT yet published. Verdict unchanged: TOO EARLY. H1 must show growth moving sharply toward the guide.
