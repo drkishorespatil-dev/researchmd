@@ -5,6 +5,14 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 11 Nov 2026 (7) — Rajesh Power chart (user screenshot, BSE daily, 13:32)
+
+User confirms **BSE-only listing**. Last ₹820 (-0.48%), bid ₹820 / ask ₹819.50, spread ₹0.50; day volume ~31.2K shares (~₹2.6 Cr).
+Chart read: peak ~₹1,620 late 2025 → fell to ~₹760 early 2026 → spike to ~₹1,230 → range ₹800-900 → dip to ~₹710 (recent low)
+→ bounce to ~₹860 → now ₹820. About 50% below peak while earnings grew: de-rating, not a broken business.
+Levels: support ₹750-760 then ₹700-710; resistance ₹870-900, then ~₹1,000.
+Plan unchanged: half now near ₹820, second half ₹750-760. Re-evaluate on a close below ₹700. Lot size still to confirm on order screen.
+
 ## 11 Nov 2026 (6) — user asked: one stock for November from today's names
 
 **Answer: Rajesh Power Services** (appeared in today's 11-result dump). ₹826, ~9.4x TTM, H1 CFO positive.

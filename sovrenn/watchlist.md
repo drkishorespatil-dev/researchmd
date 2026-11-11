@@ -683,3 +683,8 @@ Hold the other half until H2 FY27 shows debt stops rising / operating cash flow 
   rested on CFO being a growth symptom at D/E 1.3x; at 3x with no cash conversion it is a funding risk.
 - **Vintage Coffee: new red flag** — promoter pledge 25.5% of holding. Results strong (Q2 PAT +56%), ~30x TTM. WATCH.
 - **Patil Automation:** H1 HoH sales +3%, PAT -8%. Growth slowing. WAIT reinforced.
+
+### Rajesh Power chart check — 11 Nov 2026 @ ₹820 (user screenshot)
+
+Listing confirmed BSE only. Spread ₹0.50, ~31K shares/day. About 50% below the late-2025 peak of ~₹1,620; recent low ~₹710.
+Support ₹750-760 and ₹700-710; resistance ₹870-900. Plan: half at ~₹820, half at ₹750-760; re-evaluate below ₹700 close.
