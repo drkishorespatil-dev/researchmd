@@ -5,6 +5,19 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 11 Nov 2026 — six names, user asked for one pick
+
+| Company | Key numbers | Valuation | Verdict |
+|---|---|---|---|
+| **Kross** (mainboard) | Q2 rev ₹235 Cr (+80%), PAT ₹19.7 Cr (+143%), EBITDA margin 13% from 11%, QoQ sales +28% / PAT +54%; H1 PAT ₹33.2 Cr; capacity expansion; ~6.4 Cr shares | ~₹320 (record ₹326.8 on ~19 Oct, price unverified) = mcap ~₹2,060 Cr, ~35x TTM, ~28x FY27E | **PICK of these six, buy on dips below ~₹270** |
+| SG Finserve | Q2 PAT ₹58.5 Cr (+106%), loan book ₹5,694 Cr (+98%), nil NPA, CAR 27%, leverage 2.8x→3.7x, net worth ~₹1,600 Cr | ₹703, mcap ₹4,629 Cr, **P/B 2.87x**, PE 24.7, ROE ~15% | Pass: pays 2.9x book for ~15% ROE on an unseasoned, doubling book. CSL gets 14.8% ROE at 0.93x |
+| Supreme Power Equipment (SME) | H1 sales +80%, PAT +45%, OPM 19→18%, HoH +27%/+24% | mcap ₹545 Cr, 25.9x TTM, ~18x FY27E | Runner-up; SME, cash flow unknown |
+| E2E Networks | Q2 rev ₹224 Cr (+411%), PAT ₹72.7 Cr, EBITDA margin 77%, GPUs ~5,100, ~₹1,000 Cr sovereign AI contract to 2029 | mcap ₹10,170-14,284 Cr (sources conflict), ~35-49x annualised Q2 | Pass: GPU capex heavy, govt-contract concentration, valuation unclear |
+| Acme Solar | 300 MW/1,200 MWh SECI PPA = ~7% of 4,310 MW pipeline; Q2 PAT ~₹269 Cr (+133%) | ₹407, mcap ~₹28,800 Cr, PE 38-43, D/E 3.3-3.8 | Pass: leveraged utility, news small vs size |
+| Sahana Systems (SME) | ₹125 Cr warrants @ ₹950 to non-promoters (~12% dilution, 25% upfront); uses: WC ₹50 Cr, "strategic and downstream investments" ₹44 Cr | ~₹983-1,001 (52-wk high), mcap ~₹1,050 Cr, PE ~14 on possibly stale TTM PAT ₹74.8 Cr | Pass for now: data stale, vague use of funds, IT firm needing WC |
+
+Note: none of the six beats Rajesh Power (8 Nov pick, ~9x TTM / ~7.5-8x fwd) on valuation.
+
 ## 08 Nov 2026 — Sovrenn "Excellent Results (Sep-26)" screenshots (37 names)
 
 Full table: `excellent-results-sep26.md`. User asked for the best stock from the list using the Sovrenn framework.
