@@ -5,6 +5,13 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 11 Nov 2026 (6) — user asked: one stock for November from today's names
+
+**Answer: Rajesh Power Services** (appeared in today's 11-result dump). ₹826, ~9.4x TTM, H1 CFO positive.
+Plan: half now, half on a dip toward ₹750. Verify lot size and exchange tier first.
+**Backup: Advait Energy Transitions** (~₹1,642, ~24x annualised Q2) only after its H1 cash flow is checked.
+Viviana and Msafe stay research. Everything else today is priced, cash-negative or low-margin.
+
 ## 11 Nov 2026 (5) — seventeen results, two dumps
 
 **No new buy. Rajesh Power stays the pick. Advait and Msafe go to research; Sathlokhar stays WATCH on cash flow.**
