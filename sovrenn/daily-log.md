@@ -5,6 +5,30 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 11 Nov 2026 (5) — seventeen results, two dumps
+
+**No new buy. Rajesh Power stays the pick. Advait and Msafe go to research; Sathlokhar stays WATCH on cash flow.**
+
+| Company | Result | Valuation | Verdict |
+|---|---|---|---|
+| **Advait Energy Transitions** | Q2 sales ₹221 Cr (+41%), PAT ₹19 Cr (+90%), OPM 11→14%, QoQ +23%/+27% | ₹1,642 (30 Oct), mcap ~₹1,800 Cr, PE ~31x TTM, ~24x annualised Q2; down ~25% from ₹2,194 in Aug | **RESEARCH.** Valuation has come down while profit accelerates; order momentum logged Sep. Check CFO and P/B (was 8.1) |
+| **Msafe Equipments** (BSE SME) | Q2 sales ₹40 Cr (+54%), PAT ₹8 Cr (+55%), OPM ~39-40%, QoQ +27%/+17% | ₹268 (7 Nov), mcap ~₹547 Cr, PE ~24x TTM, ~17x annualised Q2 | **RESEARCH.** Aluminium scaffolding/access equipment; 39% margin is high, check whether it is rental (capex-heavy) and CFO |
+| Sathlokhar Synergys | Q2 sales ₹297 Cr (2x), PAT ₹29 Cr (2.1x), QoQ +45%/+38% | ₹358 (user, 8 Nov), PE ~8.5x TTM | Already in 8 Nov checkpoint (H1 PAT ₹51 Cr). H1 CFO -₹102 Cr. **WATCH unchanged** |
+| Quality Power Electrical | Q2 sales ₹273 Cr (+33%), PAT ₹63 Cr (+80%), OPM 18→23% | ~₹1,520 (8 Sep), mcap ~₹11,800 Cr, PE ~82x TTM, ~47x annualised Q2 | Excellent, priced. WATCH |
+| Zen Technologies | Q2 sales ₹345 Cr (2x), PAT ₹102 Cr (+65%; press: consol ₹89.5 Cr, +51%), QoQ 2.4x/3.2x | ~₹1,768 post-result; PE 50-67x by source | Q1 FY27 was down; defence orders are lumpy — do not annualise Q2. WATCH |
+| Krishna Defence | Q2 sales ₹75 Cr (+56%), PAT ₹15 Cr (+67%), OPM 19→27% | ₹1,181 (7 Aug), mcap ~₹1,750 Cr, PE ~42x TTM, ~29x annualised Q2 | Good, priced. WATCH |
+| OBSC Perfection | Q2 sales ₹92 Cr (+96%), PAT ₹12 Cr (2.4x) | Mcap ~₹2,238 Cr (Sep) → ~47x annualised Q2 | Better quarter, still back-ended order book. AVOID at price |
+| Prizor Viztech | H1 sales 2.5x, PAT 2.5x, but **HoH flat (0%/0%)** | ~62x (Sep) after +280% in a year | Growth stalled sequentially at a peak multiple. AVOID |
+| Sugs Lloyd | Q2 sales ₹135 Cr (2.1x), PAT ₹12 Cr (2.1x), OPM 16→14% | ~₹261 (6 Nov), mcap ~₹600 Cr, ~16-19x | Profit vs cash-flow divergence and rising debt flagged in Sep deep-dive. WATCH |
+| Chemkart India (BSE SME) | H1 sales 2x, PAT 2.3x, OPM flat 14% | Mcap ~₹278 Cr (Sep), ~8.7x | Distribution business; H1 CFO -₹18.7 Cr (Sep data). WATCH |
+| Apar Industries | Q2 sales +21%, PAT +77%, OPM 8→10%, QoQ PAT -4% | ~62x (Sep), mcap ~₹73,000 Cr | Note, don't act |
+| P N Gadgil Jewellers | Q2 sales +22%, PAT +53%, OPM 5→8% | Not checked | Margin jump likely gold-price inventory gain; don't extrapolate. Skip |
+| Ratnaveer Precision | Q2 sales +35%, PAT +60%, OPM 10→9% | Not checked | Stainless steel, falling 9% margin. Skip |
+| Jay Jalaram Technologies | H1 sales +84%, PAT +80%, OPM 2.5% | Not checked | Retail at 2.5% margin. Skip |
+| Parth Electricals | H1 sales +43%, PAT +50%; HoH sales -3% | Not checked | Sequential stall. Skip |
+| Hi-Green Carbon | H1 sales +42%, PAT +40%, OPM 15→20%; prior half was a loss | Not checked | Tyre pyrolysis; too small and volatile. Skip |
+| Srivasavi Adhesive Tapes | H1 sales +38%, PAT ₹4 Cr | Not checked | Too small. Skip |
+
 ## 11 Nov 2026 (4) — eleven results
 
 | Company | Result | Valuation | Verdict |
