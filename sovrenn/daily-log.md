@@ -5,6 +5,17 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 11 Nov 2026 (3) — six results
+
+| Company | Result | Valuation | Verdict |
+|---|---|---|---|
+| **Diamond Power Infrastructure (DICABS)** | Q2 rev ₹1,032 Cr (+135%, first ₹1,000 Cr qtr, +50% QoQ), PAT ~₹108 Cr, EBITDA incl. other income ₹133 Cr (12.9%). Order book ₹3,735 Cr incl. ₹974 Cr HVDC. **Net worth -₹604 Cr (Mar) → +₹764 Cr (Sep); net debt ₹527 Cr → net cash ₹572 Cr.** Guidance FY27 ₹4,300 Cr / FY28 ₹7,500 Cr / FY29 ₹10,000 Cr. ₹170 Cr polymer capex | Price and mcap NOT found | RESEARCH. Two checks: (1) PAT ₹108 Cr on EBITDA ₹133 Cr implies near-zero tax, likely carried-forward IBC-era losses, so PAT is flattered vs a normal ~25% tax; (2) how net worth swung ₹1,368 Cr in six months (equity raise? debt write-back?) and at what dilution |
+| Yatharth Hospital | Q2 income ₹436 Cr (+51%), PAT ₹48.5 Cr (+17.5%), OPM 23→24%. Beds 2,555, census 1,820. Advent International ₹3,150 Cr primary investment; plan 7,000-8,000 beds in 3-5 yrs | ₹1,027, mcap ~₹9,895 Cr, PE ~52x; promoter 55.8% pre-Advent | WATCH. Profit lags revenue as new hospitals ramp; Advent money ≈ 32% of mcap = large dilution; 52x |
+| Rama Vision | Q2 sales ₹59 Cr (+47%), PAT ₹2.5 Cr, OPM flat 7% | Not checked | Too small |
+| One Point One | Same as 8 Nov screen | 36.8x | Unchanged: dilution flag |
+| GP Eco Solutions | Same as 8 Nov screen (HoH sales -20%, PAT -27%) | 9.0x | Unchanged: guidance risk |
+| Mach Travel | Same as 8 Nov screen (OPM 11→6%) | 27.2x | Unchanged: skip |
+
 ## 11 Nov 2026 (2) — eleven Q2/H1 results
 
 | Company | Result | Valuation found | Verdict |
