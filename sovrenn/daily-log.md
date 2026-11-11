@@ -5,6 +5,22 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 11 Nov 2026 (2) — eleven Q2/H1 results
+
+| Company | Result | Valuation found | Verdict |
+|---|---|---|---|
+| **Blue Water Logistics** (watchlist) | Q2 sales ₹272 Cr (+213%), PAT ₹16 Cr (+220%), OPM 10→13%. H1 rev ₹483.3 Cr, PAT ₹30 Cr, EBITDA margin 12.2%. **H1 CFO -₹106.2 Cr** (WC outflow ₹158.3 Cr). **D/E 3.0x from 1.3x**; borrowings ₹330.8 Cr in one source | Price not found | 🚨 **DOWNGRADE from "buy on dips" to AVOID.** Freight forwarder funding receivables with debt at 3x equity |
+| **Vintage Coffee** (watchlist) | Q2 sales ₹223 Cr (+64%), PAT ₹28 Cr (+56%), OPM 16→19%, QoQ +39%/+33% | ₹161-165, mcap ₹2,365-2,434 Cr, PE ~30x TTM, ~21x annualised Q2 | 🚩 **NEW: promoters have pledged 25.5% of holding** (Screener). Results good; pledge is a Sovrenn red flag. WATCH |
+| **Patil Automation** (watchlist) | H1 sales ₹98 Cr (+38%), PAT ₹11 Cr (+38%), OPM 15→17%. **HoH sales +3%, PAT -8%** | ~₹321 (10 Sep) → ~25x TTM | Growth slowing while price rose after the preferential. **WAIT reinforced** |
+| V-Marc (watchlist) | Q2 as logged 11 Nov: sales +73%, PAT +78%, QoQ PAT +66% | ₹319, ~25x fwd | Unchanged: half of second tranche |
+| Aditya Infotech (CP Plus) | Q2 sales ₹1,746 Cr (+90%), PAT ₹186 Cr (+166%), OPM 12→17% | ₹4,225, mcap ~₹51,800 Cr, PE 83-140x (sources conflict); ~70x annualised Q2 | Excellent business, priced for it. Pass |
+| Univastu India | Q2 sales ₹150 Cr (+213%), PAT ₹16 Cr (+220%), OPM 17→13%, QoQ +44%/+60% | ₹151 (8 Nov), mcap ~₹510-569 Cr, PE 13.8x TTM, ~9x annualised Q2; order book ₹1,340 Cr (+22%, one source) | Cheapest new name. Pune EPC; margin down, order book growing slower than sales. RESEARCH (cash flow) |
+| Durlax Top Surface | Q2 sales ₹70 Cr (+81%), PAT ₹9 Cr (+371%), OPM 10→21%, QoQ PAT 3.3x | ~₹62.6 (9 Oct), mcap ~₹176 Cr, PE ~14x pre-Q2 | Micro cap; margin doubled in one quarter, verify it is not one-off |
+| Spectrum Electrical | Q2 sales ₹198 Cr (+68%), PAT ₹18 Cr (+125%), OPM 13→19% | Not found | Strong print, unvalued |
+| Precision Wires | Q2 sales ₹1,972 Cr (+59%), PAT ₹43 Cr (+19%), OPM 6→5%, QoQ PAT -7% | Not checked | Copper pass-through; profit lags sales. Skip |
+| Master Components | H1 sales ₹59 Cr (+61%), PAT ₹6 Cr (+71%) | Not checked | Too small |
+| Infinium Pharmachem | H1 sales ₹130 Cr (+55%), PAT ₹10 Cr (+43%), OPM 12→11% | Not checked | Margin down; small |
+
 ## 11 Nov 2026 — six names, user asked for one pick
 
 | Company | Key numbers | Valuation | Verdict |

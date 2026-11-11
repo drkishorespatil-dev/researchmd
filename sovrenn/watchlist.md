@@ -677,3 +677,9 @@ Mainboard migration: board approved 26 Aug; AGM 25 Sep; completion NOT confirmed
 
 **Revised call:** deploy HALF of the reserved ₹2L second tranche now (margin gate met, valuation better than Sep).
 Hold the other half until H2 FY27 shows debt stops rising / operating cash flow turns. Exit-review trigger: D/E above ~1.3x with CFO still negative.
+
+### 11 Nov 2026 status changes from Q2/H1 results
+- **Blue Water Logistics: DOWNGRADED to AVOID.** H1 CFO -₹106.2 Cr, D/E 3.0x (from 1.3x), borrowings up to ~₹331 Cr. The August "buy on dips"
+  rested on CFO being a growth symptom at D/E 1.3x; at 3x with no cash conversion it is a funding risk.
+- **Vintage Coffee: new red flag** — promoter pledge 25.5% of holding. Results strong (Q2 PAT +56%), ~30x TTM. WATCH.
+- **Patil Automation:** H1 HoH sales +3%, PAT -8%. Growth slowing. WAIT reinforced.
