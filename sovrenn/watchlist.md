@@ -651,3 +651,29 @@ Verdict unchanged: CAUTION. Cheap, but cyclical-peak margins and debt. Wait days
 H2 FY26: revenue ₹25.7 Cr (+4.9%), PAT ₹4.2 Cr (-2.3%), EBITDA margin 28.5%. That is near-flat growth, yet management guides
 **at least +60% revenue in FY27**, resting on a ₹47.46 Cr PSU order and a ₹30.18 Cr automated Noida plant due by Oct-26.
 H1 FY27 (first listed half) NOT yet published. Verdict unchanged: TOO EARLY. H1 must show growth moving sharply toward the guide.
+
+### V-Marc India — Q2 FY27 checkpoint result (11 Nov 2026) @ ₹319
+
+**Margin gate (set 4 Sep for the ₹2L second tranche): PASSED.**
+Q2 FY27 EBITDA margin 12.2% (guide 11.5%; Q1 10.7%; Q2 FY26 11.9%).
+
+| | |
+|---|---|
+| Q2 FY27 revenue | ₹719.85 Cr (+72.6%) |
+| Q2 FY27 EBITDA / PAT | ₹87.89 Cr / ₹47.91 Cr (PAT margin 6.7%; tax rate 27.5% from 23.4%) |
+| H1 FY27 revenue / PAT | ₹1,275.36 Cr (+84.4%) / ₹76.43 Cr (+103.8%); EBITDA margin 11.6% |
+| Guidance | FY27 revenue growth RAISED to >60% (from >40%) on 6 Nov; EBITDA 11-12% kept |
+| **H1 operating cash flow** | **NEGATIVE** (amount not found); net borrowings +₹146.2 Cr |
+| **Debt/equity** | **0.99x at Sep 2026** (0.7x at Mar 2026) |
+
+**CORRECTION to earlier pattern note:** V-Marc was called "the only name that doubled revenue while improving its cash cycle."
+That held for FY26. In H1 FY27 operating cash flow turned negative and leverage rose to about 1x. It no longer holds.
+
+Valuation @ ₹319 (14.65 Cr shares, mcap ~₹4,673 Cr): TTM PAT ~₹139 Cr → **~34x TTM**.
+FY27E revenue ~₹2,875 Cr (+60%) at ~6.5% PAT margin → PAT ~₹187 Cr → **~25x forward** (was ~32x on 4 Sep at the same price).
+H2 needs about ₹1,600 Cr revenue, about +45% on H2 FY26: plausible.
+
+Mainboard migration: board approved 26 Aug; AGM 25 Sep; completion NOT confirmed in sources found.
+
+**Revised call:** deploy HALF of the reserved ₹2L second tranche now (margin gate met, valuation better than Sep).
+Hold the other half until H2 FY27 shows debt stops rising / operating cash flow turns. Exit-review trigger: D/E above ~1.3x with CFO still negative.
