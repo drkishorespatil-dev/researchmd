@@ -16,6 +16,9 @@ Verdicts feed into `watchlist.md`.
 | Acme Solar | 300 MW/1,200 MWh SECI PPA = ~7% of 4,310 MW pipeline; Q2 PAT ~₹269 Cr (+133%) | ₹407, mcap ~₹28,800 Cr, PE 38-43, D/E 3.3-3.8 | Pass: leveraged utility, news small vs size |
 | Sahana Systems (SME) | ₹125 Cr warrants @ ₹950 to non-promoters (~12% dilution, 25% upfront); uses: WC ₹50 Cr, "strategic and downstream investments" ₹44 Cr | ~₹983-1,001 (52-wk high), mcap ~₹1,050 Cr, PE ~14 on possibly stale TTM PAT ₹74.8 Cr | Pass for now: data stale, vague use of funds, IT firm needing WC |
 
+SG Finserve price stamp (11 Nov, user CMP): **₹697**. ~6.59 Cr shares → mcap ~₹4,595 Cr. Net worth ~₹1,600 Cr → BVPS ~₹243 → **P/B ~2.87x**, PE ~24.5x.
+Verdict unchanged: PASS at this price. Buy zone below ~₹500 (about 2x book), OR reconsider at current price if ROE climbs to 18-20% with NPAs still near nil after the book seasons.
+
 Note: none of the six beats Rajesh Power (8 Nov pick, ~9x TTM / ~7.5-8x fwd) on valuation.
 
 ## 08 Nov 2026 — Sovrenn "Excellent Results (Sep-26)" screenshots (37 names)
