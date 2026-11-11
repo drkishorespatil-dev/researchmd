@@ -5,6 +5,19 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 11 Nov 2026 (4) — eleven results
+
+| Company | Result | Valuation | Verdict |
+|---|---|---|---|
+| **Viviana Power Tech** (NSE SME) | Q2 sales ₹117 Cr (+98%), PAT ₹12 Cr (+100%), QoQ +63%/+100%; OPM 19→15% | ₹728 (4 Nov), mcap ~₹737 Cr, PE ~11.6-13x TTM, ~15x annualised Q2; P/B 5.4; 52-wk ₹565-1,060, -32% in a year | **RESEARCH — cheapest quality name in batch.** Power T&D EPC; Sovrenn's own "guidance + track record" example. Check CFO and order book; margin falling |
+| Kanohar Electricals | Q2 sales ₹209 Cr (+113%), PAT ₹53.9 Cr (+184%), OPM 28→35%, QoQ +53%/2x; H1 PAT ₹81.2 Cr. Transformers to 350 MVA/500 kV | ~₹1,006, mcap ~₹7,850 Cr, PE 44-55x TTM, ~36x annualised Q2; IPO ₹632 (₹1,056 Cr) | Excellent, priced. 35% OPM is very high for transformers — likely peak of the transformer shortage cycle. WATCH |
+| Concord Control Systems (BSE SME) | H1 sales ₹159 Cr (+94%), PAT ₹31 Cr (+94%), OPM 25→29%, HoH +23%/+24% | ₹2,390 (30 Oct), mcap ~₹2,529 Cr, PE ~59x pre-H1, ~44x TTM post-H1; FY26-end order book ₹697 Cr (3.3x FY26 rev) | Quality railway/Kavach play (govt theme), consistent growth, but ~44x on SME. WATCH, buy on dips |
+| Brahmaputra Infrastructure | Q2 sales ₹119 Cr (+31%), PAT ₹20 Cr (+33%), OPM ~24% | ~₹164 (5 Sep, stale), PE ~7.8x | Cheap NE-India infra EPC; data stale; check governance history and receivables |
+| Shera Energy | H1 sales ₹1,047 Cr (+34%), PAT ₹31 Cr (2.1x), OPM 5→6% | ~₹190 (13 Oct), mcap ~₹465 Cr, PE 10-27x (sources conflict) | Copper/aluminium wire, 6% margin, commodity pass-through. Skip |
+| Baheti Recycling | H1 sales ₹528 Cr (+68%), PAT ₹19 Cr (2.1x), OPM 7→8% | ₹708 (29 Oct), mcap ~₹740 Cr, PE 27.4x | Low-margin aluminium recycling at 27x. Skip |
+| MMP Industries | Q2 sales ₹253 Cr (+35%), PAT ₹12 Cr (+71%), QoQ PAT -14%, OPM 8% | Not checked | Skip |
+| Rajesh Power, Smarten, Effwa, Taurian | Repeats of 8 Nov screen | — | Unchanged |
+
 ## 11 Nov 2026 (3) — six results
 
 | Company | Result | Valuation | Verdict |
