@@ -706,3 +706,14 @@ Sovrenn read: swings from a loss to a record profit within one quarter, driven b
 Profit is not under management's control, so no growth trigger. Do not annualise Q2.
 **VERDICT: NOT A GROWTH PICK. Dividend/value ballast only:** acceptable below book value (~₹145) for yield;
 avoid above P/B ~1.1 (~₹160). Price is from October; confirm live quote.
+
+### TVS Motor, Sky Gold, TD Power — evaluation (12 Nov 2026, user query)
+
+| | TVS Motor | Sky Gold & Diamonds | TD Power Systems |
+|---|---|---|---|
+| Latest result | Q2 FY27 standalone PAT ~₹1,377 Cr (+52%), revenue ₹17,103 Cr (+44%), EBITDA 13.0%, volumes +27% | Q2 FY27 PAT ₹129 Cr (+93%), revenue ₹2,391 Cr (+61%), EBITDA ~8%; H1 PAT ₹234 Cr | Q1 FY27 PAT ~₹86 Cr (+72%); **Q2 due 12 Nov**, call 13 Nov; FY27 revenue guidance raised to ₹2,600 Cr; order book ₹2,207 Cr (+50%) |
+| Price | ~₹4,231 (29 Oct) | ~₹945 (27 Oct) | ~₹687 (27 Oct) |
+| Mcap | ~₹2.03 lakh Cr | ~₹14,630 Cr | ~₹22,157 Cr |
+| PE | ~53x | ~36x TTM, ~28x annualised Q2 | ~45x trailing |
+| Cash / BS | Strong franchise | H1 CFO +₹136 Cr (from -₹101 Cr). Net debt ₹531-874 Cr (sources conflict). **₹1,800 Cr QIP approved after saying no dilution** | Net cash historically, exports, gensets/data-centre demand |
+| Verdict | **Quality, but priced. HOLD if owned; not a value buy** | **WATCH. Red flag: QIP contradicts earlier no-dilution statement; thin-margin gold business** | **WATCH. Good business at ~45x; read Q2 (today) before acting** |

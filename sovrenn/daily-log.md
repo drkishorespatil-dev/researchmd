@@ -5,6 +5,11 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 12 Nov 2026 (3) — user asked: TVS Motor, Sky Gold, TD Power
+
+TVS ~₹4,231 at ~53x: quality, priced, hold only. Sky Gold ~₹945 at ~28-36x: H1 CFO turned positive but ₹1,800 Cr QIP
+contradicts no-dilution guidance → watch. TD Power ~₹687 at ~45x, Q2 due today → watch. None displaces Rajesh Power.
+
 ## 12 Nov 2026 (2) — user asked: Indian Oil Corp
 
 Cyclical PSU. Q1 loss ₹2,661 Cr → Q2 record ₹21,630 Cr on a temporary crude dip. ~₹126 (9 Oct), P/B ~0.87, yield ~6.5%.
