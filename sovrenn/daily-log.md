@@ -5,6 +5,11 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 12 Nov 2026 (2) — user asked: Indian Oil Corp
+
+Cyclical PSU. Q1 loss ₹2,661 Cr → Q2 record ₹21,630 Cr on a temporary crude dip. ~₹126 (9 Oct), P/B ~0.87, yield ~6.5%.
+**Verdict: not a Sovrenn growth pick; dividend ballast only, below book (~₹145).** Deep-dive in watchlist.md.
+
 ## 12 Nov 2026 — six items
 
 **No change to the pick (Rajesh Power). Best of today: Talbros Automotive (mainboard, ~18x). Roto Pumps to research.**

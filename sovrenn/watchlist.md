@@ -688,3 +688,21 @@ Hold the other half until H2 FY27 shows debt stops rising / operating cash flow 
 
 Listing confirmed BSE only. Spread ₹0.50, ~31K shares/day. About 50% below the late-2025 peak of ~₹1,620; recent low ~₹710.
 Support ₹750-760 and ₹700-710; resistance ₹870-900. Plan: half at ~₹820, half at ₹750-760; re-evaluate below ₹700 close.
+
+### Indian Oil Corporation (IOC) — evaluation (12 Nov 2026)
+
+PSU refiner and fuel marketer, mainboard, government-controlled. **Cyclical: PE rules do not apply**; judge on P/B, dividend and cycle.
+
+| | |
+|---|---|
+| Q1 FY27 standalone | Loss ~₹2,661 Cr |
+| Q2 FY27 standalone PAT | ₹21,630 Cr (vs ₹7,610 Cr), consolidated ~₹22,503 Cr; revenue +29.8% |
+| H1 FY27 standalone PAT | ₹18,969 Cr (vs ₹13,295 Cr) |
+| Driver | Temporary crude dip mid-Jun to mid-Aug, petchem and gas margins. GRM not disclosed |
+| Price (9 Oct) | ~₹126; P/E ~6.3x trailing; **P/B ~0.87**; book value ~₹145/share |
+| Dividend | FY26 ₹8.25/share, yield ~6.5% |
+
+Sovrenn read: swings from a loss to a record profit within one quarter, driven by crude and government pricing.
+Profit is not under management's control, so no growth trigger. Do not annualise Q2.
+**VERDICT: NOT A GROWTH PICK. Dividend/value ballast only:** acceptable below book value (~₹145) for yield;
+avoid above P/B ~1.1 (~₹160). Price is from October; confirm live quote.
