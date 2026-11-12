@@ -5,6 +5,19 @@ Verdicts feed into `watchlist.md`.
 
 ---
 
+## 12 Nov 2026 — six items
+
+**No change to the pick (Rajesh Power). Best of today: Talbros Automotive (mainboard, ~18x). Roto Pumps to research.**
+
+| Company | Result / news | Valuation | Verdict |
+|---|---|---|---|
+| **Talbros Automotive** | Q2 sales ₹263 Cr (+23%), PAT ₹33 Cr (+43%), OPM 15→16%, QoQ +11%/+10% | ~₹356, mcap ~₹2,191 Cr, PE ~19.6x → ~18x after Q2 | **BEST OF BATCH.** Mainboard auto ancillary (gaskets, forgings), steady not spectacular. Accumulate on dips; earnings call 12 Nov |
+| **Roto Pumps** | Q2 sales ₹100 Cr (+54%), PAT ₹21 Cr (3.5x), OPM 18→30%, QoQ PAT 2.3x | ~₹60 (28 Oct), mcap ~₹1,130 Cr, PE ~46x pre-Q2, ~28x TTM after Q2, ~13x annualised Q2 | **RESEARCH.** A 12-point margin jump in one quarter needs an explanation (mix, export, one-off?). Don't annualise until Q3 confirms |
+| FlySBS Aviation (NSE SME) | H1 sales ₹194 Cr (+41%), PAT ₹38 Cr (+58%), OPM 23→27%; **HoH +7%/+3%** | ~₹555 (2 Nov), mcap ~₹960 Cr, PE ~13-16x, ~12.6x on H1 annualised | Cheap but sequential growth has stalled; aircraft-heavy capex, check debt and CFO. WATCH |
+| Frontier Springs | Q2 sales ₹100 Cr (+20%), PAT ₹21 Cr (+31%), OPM 27→30%, QoQ PAT +75% | ₹1,385 (5 Nov), mcap ~₹1,628 Cr, PE ~25-28x | Railway springs, good margins, fairly priced. WATCH |
+| Power Mech Projects | Q2 sales +30%, PAT +13%, OPM 12→11%, QoQ flat | Was ~19x at ₹2,504 (Aug) | Growth slowing, margin slipping. Downgrade WORTH A LOOK → WATCH |
+| HFCL | ₹834 Cr OFC export order, execution by Jun 2027 | >100x earlier | Real order, valuation unchanged problem. AVOID at price |
+
 ## 11 Nov 2026 (7) — Rajesh Power chart (user screenshot, BSE daily, 13:32)
 
 User confirms **BSE-only listing**. Last ₹820 (-0.48%), ask ₹820 / bid ₹819.50, spread ₹0.50; day volume ~31.2K shares (~₹2.6 Cr).
